@@ -1,6 +1,5 @@
-test_atbdd 11.270
-test_atbdd 7.763
-test_buddy 19.792
-test_cacbdd 8.287
-test_cudd 13.575
-test_simplebdd 9.858
+test_atbdd 8.102
+test_buddy 20.322
+test_cacbdd 9.009
+test_cudd 14.226
+test_simplebdd 10.325
