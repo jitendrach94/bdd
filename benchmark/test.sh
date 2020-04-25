@@ -8,7 +8,7 @@ measure.sh test_atbdd >> log.txt
 measure.sh test_buddy >> log.txt
 measure.sh test_cudd >> log.txt
 measure.sh test_simplebdd >> log.txt
-cd ../small
+cd ../except_C6288
 measure.sh test_atbdd >> ../logdef.txt
 measure.sh test_buddy >> ../logdef.txt
 measure.sh test_cudd >> ../logdef.txt
