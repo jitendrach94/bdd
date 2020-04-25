@@ -17,9 +17,10 @@ namespace Bdd
     int nMaxMem = 0; // Log 100 1000000000
     int nMinHit = 30; // Int 1 100
     bool fGC = 1; // Bool
-    bool fReo = 0; // None False
-    int nReoScheme = 0; // None 12
-    int nMaxGrowth = 20; // None 1 100
+    bool fReo = 1; // None True
+    int nReoScheme = 0; // Switch 12
+    int nMaxGrowth = 20; // Int 1 100
+    int nReo = 4000; // Log 100 1000000000
     // end
     
     CuddParam( std::string fname = "_CuddMan.hpp_setting.txt" )
@@ -46,6 +47,8 @@ namespace Bdd
       nReoScheme = std::stoi( str );
       std::getline( f, str );
       nMaxGrowth = std::stoi( str );
+      std::getline( f, str );
+      nReo = std::stoi( str );
     }
   };
     
@@ -69,6 +72,7 @@ namespace Bdd
 	  man->AutodynEnable( (Cudd_ReorderingType)( CUDD_REORDER_SIFT + param.nReoScheme ) );
 	}
       man->SetMaxGrowth( 1.0 + param.nMaxGrowth * 0.01 );
+      man->SetNextReordering( param.nReo );
     }
     CuddMan( int nVars ) : CuddMan( nVars, CuddParam() ) {}
     ~CuddMan() { delete man; }
