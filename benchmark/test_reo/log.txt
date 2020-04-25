@@ -1,4 +1,4 @@
-test_atbdd 3.756
-test_buddy 6.267
-test_cudd 2.938
-test_simplebdd 3.695
+test_atbdd 3.667
+test_buddy 6.279
+test_cudd 2.922
+test_simplebdd 4.033
