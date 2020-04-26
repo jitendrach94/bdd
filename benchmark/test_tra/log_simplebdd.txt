@@ -1,0 +1,603 @@
+['Pow', '7', '30']
+['None', 'True']
+['Bool']
+['Log', '100', '1000000000']
+['None', 'False']
+['None', '100', '1000000000']
+['None', '1', '100']
+{0: 1048576, 2: True, 3: 3537198}
+{'time': 24.85014057159424, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 65536, 2: False, 3: 103}
+{'time': 7.281432628631592, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 67108864, 3: 18344, 2: True}
+{'time': 30.366671800613403, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 1073741824, 2: False, 3: 440446639}
+{'time': inf, 'timeout': True, 'returncode': -9, 'stdout': b'', 'stderr': b''}
+{0: 65536, 2: False, 3: 1059}
+{'time': 7.259804725646973, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 65536, 2: False, 3: 13942}
+{'time': 7.226683616638184, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 67108864, 2: False, 3: 103}
+{'time': 11.046688795089722, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 16777216, 2: False, 3: 103}
+{'time': 7.414755344390869, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 65536, 2: True, 3: 23854}
+{'time': 26.181966304779053, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 32768, 2: False, 3: 256601}
+{'time': 7.2326836585998535, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 131072, 2: False, 3: 13942}
+{'time': 7.168063402175903, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 65536, 2: False, 3: 106182}
+{'time': 7.2327916622161865, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 131072, 2: False, 3: 4109146}
+{'time': 7.188448429107666, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 65536, 2: True, 3: 620255864}
+{'time': 26.760993480682373, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 1024, 2: False, 3: 16918}
+{'time': 7.285186767578125, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 32768, 2: False, 3: 3776}
+{'time': 7.220190048217773, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 131072, 2: True, 3: 25545}
+{'time': 25.611542224884033, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 131072, 2: False, 3: 141666}
+{'time': 7.16502571105957, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 131072, 2: False, 3: 1074}
+{'time': 7.17474627494812, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 524288, 2: False, 3: 198}
+{'time': 6.953328847885132, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 1048576, 2: True, 3: 198}
+{'time': 24.018333673477173, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 524288, 2: True, 3: 187}
+{'time': 24.470866680145264, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 1048576, 2: False, 3: 198}
+{'time': 6.810292482376099, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 524288, 2: True, 3: 198}
+{'time': 24.387052297592163, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 4194304, 2: True, 3: 198}
+{'time': 24.892467260360718, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 1048576, 2: False, 3: 150}
+{'time': 6.798097610473633, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 524288, 2: False, 3: 109}
+{'time': 6.955586671829224, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 131072, 2: True, 3: 571}
+{'time': 25.787095069885254, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 1048576, 2: False, 3: 28577590}
+{'time': 6.8355872631073, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 1048576, 2: True, 3: 150}
+{'time': 24.061699628829956, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 1048576, 2: False, 3: 12602}
+{'time': 6.793979167938232, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 1048576, 2: False, 3: 83085}
+{'time': 6.797450065612793, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 1048576, 2: True, 3: 12602}
+{'time': 23.89994239807129, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 1048576, 2: False, 3: 33238}
+{'time': 6.804812431335449, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 524288, 2: False, 3: 12602}
+{'time': 6.948992729187012, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: False, 3: 2995}
+{'time': 6.651249170303345, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 1048576, 2: True, 3: 2995}
+{'time': 24.048929691314697, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 262144, 2: False, 3: 2995}
+{'time': 7.121434450149536, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 4096, 2: False, 3: 255}
+{'time': 7.280052185058594, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 16777216, 2: False, 3: 2995}
+{'time': 7.424870014190674, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 4194304, 2: False, 3: 12223}
+{'time': 6.913098335266113, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: True, 3: 2995}
+{'time': 24.03314733505249, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 4194304, 2: False, 3: 7289}
+{'time': 6.896366119384766, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 65536, 2: True, 3: 2995}
+{'time': 26.0618097782135, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 1048576, 2: False, 3: 2995}
+{'time': 6.782382488250732, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 4194304, 2: True, 3: 2995}
+{'time': 27.106829166412354, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 4194304, 2: False, 3: 46282}
+{'time': 6.875958442687988, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 524288, 2: False, 3: 2995}
+{'time': 6.946640253067017, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: False, 3: 156}
+{'time': 6.680960655212402, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 1024, 2: False, 3: 2995}
+{'time': 7.358953952789307, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: True, 3: 105}
+{'time': 23.951513290405273, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: False, 3: 6266290}
+{'time': 6.692265748977661, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: False, 3: 360171}
+{'time': 6.6654698848724365, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 131072, 3: 6348899, 2: True}
+{'time': 26.44239044189453, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 524288, 3: 9087180, 2: False}
+{'time': 6.961509466171265, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 8388608, 2: False, 3: 301}
+{'time': 7.211199760437012, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: True, 3: 55224}
+{'time': 23.936238288879395, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: False, 3: 24086}
+{'time': 6.662806749343872, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 67108864, 2: False, 3: 255017651}
+{'time': 11.059727668762207, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 128, 2: False, 3: 19401}
+{'time': 7.274681568145752, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 8388608, 2: False, 3: 379958883}
+{'time': 7.195176601409912, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 16777216, 2: True, 3: 103}
+{'time': 26.803470849990845, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: False, 3: 99894}
+{'time': 6.688108444213867, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 4194304, 2: False, 3: 1428509}
+{'time': 6.890876293182373, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 33554432, 2: False, 3: 2995}
+{'time': 8.661843061447144, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: True, 3: 13077}
+{'time': 23.79773187637329, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: False, 3: 2839}
+{'time': 6.649512529373169, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 16384, 2: True, 3: 2995}
+{'time': 41.746052742004395, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 16777216, 2: False, 3: 5756}
+{'time': 7.414663791656494, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: True, 3: 1919}
+{'time': 23.884756565093994, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 16777216, 2: False, 3: 2839}
+{'time': 7.424415826797485, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: False, 3: 302}
+{'time': 6.6740944385528564, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: False, 3: 1954}
+{'time': 6.6567957401275635, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: True, 3: 320}
+{'time': 23.900394678115845, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 524288, 2: True, 3: 3950}
+{'time': 24.366628170013428, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: True, 3: 2839}
+{'time': 23.84771966934204, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 1048576, 2: True, 3: 2839}
+{'time': 23.947694778442383, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 524288, 2: False, 3: 16933}
+{'time': 7.000607013702393, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 524288, 2: False, 3: 2839}
+{'time': 6.9629967212677, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2048, 3: 1000000000, 2: True}
+{'time': 26.949201583862305, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: True, 3: 17538}
+{'time': 23.85229516029358, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: True, 3: 7953}
+{'time': 23.987209796905518, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 65536, 3: 31894172, 2: False}
+{'time': 7.228260040283203, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: False, 3: 4115}
+{'time': 6.676363229751587, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: True, 3: 372}
+{'time': 23.85551691055298, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 131072, 3: 45650310, 2: False}
+{'time': 7.210286855697632, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: False, 3: 160}
+{'time': 6.685106515884399, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 1048576, 2: False, 3: 2839}
+{'time': 6.782122850418091, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: False, 3: 2289}
+{'time': 6.683666467666626, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 67108864, 2: False, 3: 4119}
+{'time': 11.048792362213135, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 1048576, 2: False, 3: 132}
+{'time': 6.8040735721588135, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 128, 2: True, 3: 76399622}
+{'time': 26.95031762123108, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 512, 2: False, 3: 413}
+{'time': 7.290361404418945, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 1048576, 2: True, 3: 677}
+{'time': 23.92142343521118, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: True, 3: 8212}
+{'time': 23.96825647354126, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 1048576, 2: False, 3: 1208}
+{'time': 6.807586908340454, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: False, 3: 18462}
+{'time': 6.671355485916138, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 524288, 3: 13006502, 2: False}
+{'time': 6.9616851806640625, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: False, 3: 104}
+{'time': 6.65332818031311, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 268435456, 2: True, 3: 2839}
+{'time': 44.316659927368164, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 1048576, 3: 2589139, 2: False}
+{'time': 6.79977011680603, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 8388608, 2: True, 3: 2839}
+{'time': 26.007837295532227, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: True, 3: 13602}
+{'time': 23.872699975967407, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 4194304, 3: 382280, 2: False}
+{'time': 6.921969890594482, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 8388608, 2: False, 3: 6328}
+{'time': 7.209496736526489, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: True, 3: 542}
+{'time': 23.68615961074829, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: False, 3: 105}
+{'time': 6.671637535095215, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 67108864, 2: False, 3: 2839}
+{'time': 11.078696966171265, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 4096, 2: False, 3: 2839}
+{'time': 7.283125638961792, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 33554432, 2: True, 3: 2839}
+{'time': 27.96897840499878, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 524288, 3: 1808963, 2: False}
+{'time': 6.951130628585815, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 262144, 2: False, 3: 2839}
+{'time': 7.130470514297485, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: True, 3: 10896}
+{'time': 23.931687116622925, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 4194304, 2: True, 3: 52261}
+{'time': 24.743520259857178, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 1073741824, 2: False, 3: 165}
+{'time': inf, 'timeout': True, 'returncode': -9, 'stdout': b'', 'stderr': b''}
+{0: 1048576, 2: True, 3: 4372378}
+{'time': 25.842878818511963, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 524288, 2: True, 3: 415}
+{'time': 24.473451375961304, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 33554432, 2: True, 3: 5095}
+{'time': 27.99292755126953, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 524288, 3: 515470, 2: False}
+{'time': 6.954075336456299, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 4194304, 2: True, 3: 2839}
+{'time': 24.938245058059692, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: True, 3: 198994}
+{'time': 23.88687801361084, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 4194304, 2: False, 3: 732}
+{'time': 6.912319183349609, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 524288, 3: 1341488, 2: False}
+{'time': 6.942522287368774, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 134217728, 2: True, 3: 2839}
+{'time': 35.560386419296265, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 524288, 3: 1920038, 2: False}
+{'time': 6.962041854858398, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 65536, 2: False, 3: 2839}
+{'time': 7.428942680358887, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: False, 3: 5584}
+{'time': 6.669654130935669, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 524288, 3: 1827019, 2: False}
+{'time': 6.958590269088745, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: True, 3: 2604}
+{'time': 24.014468669891357, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: True, 3: 40724}
+{'time': 23.832300424575806, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 1048576, 3: 1863673, 2: False}
+{'time': 6.799842357635498, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 1048576, 3: 2164174, 2: False}
+{'time': 6.789322137832642, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 131072, 2: False, 3: 102}
+{'time': 7.176863193511963, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 8192, 2: False, 3: 464}
+{'time': 7.263858079910278, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 262144, 2: False, 3: 480}
+{'time': 7.133129358291626, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 262144, 2: False, 3: 196}
+{'time': 7.137191534042358, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 8388608, 2: True, 3: 101}
+{'time': 26.146147966384888, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: False, 3: 2051558}
+{'time': 6.675771951675415, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 4194304, 2: False, 3: 2839}
+{'time': 6.893162727355957, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 1048576, 3: 3006623, 2: False}
+{'time': 6.797015905380249, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 262144, 2: False, 3: 104}
+{'time': 7.10326623916626, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 256, 2: False, 3: 114676670}
+{'time': 7.281122922897339, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 32768, 2: True, 3: 103}
+{'time': 27.864870071411133, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: False, 3: 23353}
+{'time': 6.683312177658081, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 4194304, 2: False, 3: 974}
+{'time': 6.889227390289307, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 1048576, 3: 2513131, 2: False}
+{'time': 6.804922580718994, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: False, 3: 94871}
+{'time': 6.680487155914307, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 1048576, 3: 2576313, 2: False}
+{'time': 6.8028130531311035, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 4194304, 2: False, 3: 3785}
+{'time': 6.886088848114014, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 262144, 2: True, 3: 2839}
+{'time': 24.870898246765137, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 524288, 2: True, 3: 2839}
+{'time': 24.4167160987854, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 1048576, 3: 2550853, 2: False}
+{'time': 6.776764154434204, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 1048576, 3: 2367139, 2: False}
+{'time': 6.787061929702759, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 33554432, 2: True, 3: 414}
+{'time': 28.1697781085968, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 1073741824, 2: True, 3: 100}
+{'time': inf, 'timeout': True, 'returncode': -9, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: False, 3: 681}
+{'time': 6.6741485595703125, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: True, 3: 565}
+{'time': 23.77629852294922, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 16777216, 2: True, 3: 2839}
+{'time': 26.803431510925293, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 1048576, 3: 2790084, 2: False}
+{'time': 6.793718338012695, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: False, 3: 299}
+{'time': 6.678661584854126, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: False, 3: 155}
+{'time': 6.912015676498413, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: False, 3: 102}
+{'time': 6.722908020019531, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 8388608, 2: False, 3: 103}
+{'time': 7.200678586959839, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 1048576, 2: False, 3: 119583}
+{'time': 6.788700819015503, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 536870912, 2: True, 3: 167}
+{'time': inf, 'timeout': True, 'returncode': -9, 'stdout': b'', 'stderr': b''}
+{0: 16384, 2: False, 3: 42703273}
+{'time': 7.282793045043945, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 1048576, 3: 2257770, 2: False}
+{'time': 6.810459613800049, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: False, 3: 1480}
+{'time': 6.692253589630127, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: False, 3: 187}
+{'time': 6.685753345489502, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 1048576, 3: 2457280, 2: False}
+{'time': 6.808385372161865, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 1048576, 3: 2349572, 2: False}
+{'time': 6.7913429737091064, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: False, 3: 608161}
+{'time': 6.686245679855347, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 33554432, 2: False, 3: 2839}
+{'time': 8.700015544891357, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 4194304, 2: False, 3: 43021}
+{'time': 6.8854687213897705, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 524288, 2: True, 3: 14385}
+{'time': 24.444925785064697, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 1048576, 3: 2439043, 2: False}
+{'time': 6.791512489318848, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 536870912, 2: True, 3: 3427}
+{'time': inf, 'timeout': True, 'returncode': -9, 'stdout': b'', 'stderr': b''}
+{0: 1073741824, 2: True, 3: 3537198}
+{'time': inf, 'timeout': True, 'returncode': -9, 'stdout': b'', 'stderr': b''}
+{0: 33554432, 2: False, 3: 100}
+{'time': 8.735058307647705, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 1048576, 3: 2445107, 2: False}
+{'time': 6.829042911529541, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: False, 3: 339820}
+{'time': 6.677858352661133, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: False, 3: 119959496}
+{'time': 6.676180362701416, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 1048576, 3: 2448145, 2: False}
+{'time': 6.790950059890747, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 1048576, 3: 2503629, 2: False}
+{'time': 6.80695915222168, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: True, 3: 701}
+{'time': 23.8818039894104, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 1048576, 2: False, 3: 4328}
+{'time': 6.790091037750244, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 1048576, 2: False, 3: 4109146}
+{'time': 6.793573379516602, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 1073741824, 2: True, 3: 620255864}
+{'time': inf, 'timeout': True, 'returncode': -9, 'stdout': b'', 'stderr': b''}
+{0: 1024, 2: False, 3: 10355}
+{'time': 7.321239709854126, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 32768, 2: True, 3: 100}
+{'time': 27.960293292999268, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 1048576, 3: 2494323, 2: False}
+{'time': 6.812851190567017, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: False, 3: 532821}
+{'time': 6.665217161178589, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: False, 3: 906}
+{'time': 6.690851926803589, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: False, 3: 262794752}
+{'time': 6.678428411483765, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 1048576, 3: 2502076, 2: False}
+{'time': 6.792883634567261, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 262144, 2: False, 3: 248}
+{'time': 7.089660167694092, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 1048576, 3: 2495871, 2: False}
+{'time': 6.792330741882324, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 1073741824, 2: False, 3: 60283}
+{'time': inf, 'timeout': True, 'returncode': -9, 'stdout': b'', 'stderr': b''}
+{0: 1048576, 3: 2497938, 2: False}
+{'time': 6.837581634521484, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 67108864, 2: False, 3: 547}
+{'time': 11.05392575263977, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 128, 2: True, 3: 19401}
+{'time': 28.203229904174805, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 8388608, 2: True, 3: 566434}
+{'time': 26.102312088012695, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 1048576, 3: 2498971, 2: False}
+{'time': 6.794992685317993, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 1048576, 3: 2526347, 2: False}
+{'time': 6.778207540512085, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: True, 3: 1880}
+{'time': 23.840937614440918, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: True, 3: 73508}
+{'time': 23.73845648765564, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 1048576, 3: 2578796, 2: False}
+{'time': 6.783936977386475, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: False, 3: 186}
+{'time': 6.711084365844727, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: True, 3: 4613}
+{'time': 23.887216567993164, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 512, 2: False, 3: 2839}
+{'time': 7.262211322784424, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: False, 3: 64710947}
+{'time': 6.684942722320557, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 1048576, 3: 2551908, 2: False}
+{'time': 6.800770282745361, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 16777216, 2: True, 3: 56465853}
+{'time': 26.81311583518982, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 67108864, 2: False, 3: 100}
+{'time': 11.056763887405396, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 524288, 2: False, 3: 132}
+{'time': 6.947143316268921, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 1048576, 3: 2538570, 2: False}
+{'time': 7.249379873275757, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 1048576, 3: 2524779, 2: False}
+{'time': 6.8364410400390625, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 1048576, 3: 2536995, 2: False}
+{'time': 6.811589479446411, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 128, 2: True, 3: 138581892}
+{'time': 27.080900192260742, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 16384, 2: False, 3: 413}
+{'time': 7.294161558151245, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 1073741824, 2: False, 3: 110188}
+{'time': inf, 'timeout': True, 'returncode': -9, 'stdout': b'', 'stderr': b''}
+{0: 8192, 2: False, 3: 2839}
+{'time': 7.301320314407349, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 32768, 2: False, 3: 2839}
+{'time': 7.219574928283691, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: False, 3: 118}
+{'time': 6.660760879516602, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: False, 3: 208308}
+{'time': 6.646968126296997, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: False, 3: 101785412}
+{'time': 6.655855894088745, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: False, 3: 3428377}
+{'time': 6.677872896194458, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 524288, 2: False, 3: 208308}
+{'time': 6.958442687988281, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 1048576, 2: False, 3: 106}
+{'time': 6.78955078125, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: False, 3: 2919110}
+{'time': 6.66985011100769, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: False, 3: 920464}
+{'time': 6.675087928771973, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 32768, 2: False, 3: 208308}
+{'time': 7.234088659286499, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 16777216, 2: False, 3: 208308}
+{'time': 7.434205532073975, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 1073741824, 2: False, 3: 208308}
+{'time': inf, 'timeout': True, 'returncode': -9, 'stdout': b'', 'stderr': b''}
+{0: 4096, 2: False, 3: 102}
+{'time': 7.262169361114502, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: False, 3: 13338355}
+{'time': 6.6730992794036865, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: True, 3: 208308}
+{'time': 23.91555666923523, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 33554432, 2: False, 3: 208308}
+{'time': 8.71108865737915, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: False, 3: 851}
+{'time': 6.6804845333099365, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: False, 3: 292}
+{'time': 6.711705923080444, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: False, 3: 13345}
+{'time': 6.724018573760986, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 524288, 2: False, 3: 376225}
+{'time': 6.9521379470825195, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: False, 3: 107}
+{'time': 6.714986562728882, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: False, 3: 131119837}
+{'time': 6.6811113357543945, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 8192, 2: False, 3: 208308}
+{'time': 7.296245336532593, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 128, 2: False, 3: 3342}
+{'time': 7.280634164810181, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: False, 3: 486365384}
+{'time': 6.666226863861084, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: False, 3: 917086}
+{'time': 6.706191301345825, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: False, 3: 654375664}
+{'time': 6.670867204666138, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 67108864, 2: False, 3: 208308}
+{'time': 11.056903600692749, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: False, 3: 122}
+{'time': 6.712796449661255, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 128, 2: False, 3: 208308}
+{'time': 7.269809246063232, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: False, 3: 15929594}
+{'time': 6.666969060897827, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: False, 3: 234}
+{'time': 6.674592971801758, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: False, 3: 18732}
+{'time': 6.698633193969727, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: False, 3: 150}
+{'time': 6.671876430511475, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: False, 3: 120}
+{'time': 6.640634536743164, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: False, 3: 90223}
+{'time': 6.670741558074951, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 134217728, 2: False, 3: 71984}
+{'time': 15.72460126876831, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 1048576, 2: False, 3: 120}
+{'time': 6.808624029159546, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: False, 3: 7964681}
+{'time': 6.687217950820923, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 8192, 2: False, 3: 120}
+{'time': 7.267832040786743, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 256, 2: False, 3: 120}
+{'time': 7.263774871826172, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 536870912, 2: False, 3: 347495317}
+{'time': 42.697004318237305, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2048, 2: False, 3: 120}
+{'time': 7.277073621749878, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 65536, 2: False, 3: 100}
+{'time': 7.263570070266724, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: False, 3: 52248654}
+{'time': 6.661603212356567, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: True, 3: 3210}
+{'time': 23.92447829246521, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: False, 3: 106441177}
+{'time': 6.679429769515991, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: True, 3: 120}
+{'time': 23.78829264640808, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 16777216, 2: False, 3: 40520}
+{'time': 7.48912239074707, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: False, 3: 15882}
+{'time': 6.700549364089966, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: False, 3: 100}
+{'time': 6.674036979675293, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 131072, 2: False, 3: 120}
+{'time': 7.169513940811157, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: True, 3: 102}
+{'time': 23.823854207992554, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 1073741824, 2: False, 3: 120}
+{'time': inf, 'timeout': True, 'returncode': -9, 'stdout': b'', 'stderr': b''}
+{0: 134217728, 2: True, 3: 120}
+{'time': 35.466700077056885, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 512, 2: False, 3: 101}
+{'time': 7.435684680938721, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: False, 3: 170702}
+{'time': 6.814301490783691, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 8192, 2: False, 3: 107}
+{'time': 7.440602779388428, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: False, 3: 673}
+{'time': 6.858961582183838, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 4194304, 2: False, 3: 120}
+{'time': 7.07770037651062, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 134217728, 2: False, 3: 897}
+{'time': 15.96638560295105, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 4096, 2: False, 3: 26040640}
+{'time': 7.454351902008057, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 8388608, 2: False, 3: 120}
+{'time': 7.369459867477417, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: False, 3: 70272}
+{'time': 6.8583760261535645, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: False, 3: 2009113}
+{'time': 6.829056739807129, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: False, 3: 1497426}
+{'time': 6.825331449508667, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: False, 3: 110}
+{'time': 6.852447032928467, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: False, 3: 1607}
+{'time': 6.842280387878418, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 536870912, 2: True, 3: 120}
+{'time': inf, 'timeout': True, 'returncode': -9, 'stdout': b'', 'stderr': b''}
+{0: 1024, 2: False, 3: 4342910}
+{'time': 7.453924655914307, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 524288, 2: False, 3: 120}
+{'time': 7.145322799682617, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 268435456, 2: False, 3: 120}
+{'time': 25.19142484664917, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2097152, 2: False, 3: 120208248}
+{'time': 6.8583033084869385, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 67108864, 2: False, 3: 120}
+{'time': 11.248955965042114, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+### Results ###
+128 < 2097152 < 1073741824
+False
+100 < 120 < 1000000000

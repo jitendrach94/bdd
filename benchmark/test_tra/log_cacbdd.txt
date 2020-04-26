@@ -1,0 +1,701 @@
+['Log', '100', '1000000000']
+['Pow', '7', '30']
+['Pow', '7', '30']
+['Log', '100', '1000000000']
+{0: 100, 1: 2097152, 2: 131072, 3: 137954492}
+{'time': 14.68409276008606, 'timeout': False, 'returncode': 139, 'stdout': b'', 'stderr': b'/home/miyasaka/bdd/benchmark/run.sh: 2 \xe8\xa1\x8c: 53444 Segmentation fault      (\xe3\x82\xb3\xe3\x82\xa2\xe3\x83\x80\xe3\x83\xb3\xe3\x83\x97) $1 $f\n'}
+{0: 3414210, 1: 16777216, 2: 512, 3: 3489290}
+{'time': 33.171844720840454, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 3624301, 1: 134217728, 2: 67108864, 3: 4653004}
+{'time': 33.37448072433472, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 100, 1: 134217728, 2: 33554432, 3: 1308888}
+{'time': 20.087767124176025, 'timeout': False, 'returncode': 139, 'stdout': b'', 'stderr': b'/home/miyasaka/bdd/benchmark/run.sh: 2 \xe8\xa1\x8c: 53743 Segmentation fault      (\xe3\x82\xb3\xe3\x82\xa2\xe3\x83\x80\xe3\x83\xb3\xe3\x83\x97) $1 $f\n'}
+{0: 3414210, 1: 16777216, 2: 65536, 3: 3489290}
+{'time': 23.910195350646973, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 132, 1: 16777216, 2: 2048, 3: 3489290}
+{'time': 16.825068950653076, 'timeout': False, 'returncode': 139, 'stdout': b'', 'stderr': b'/home/miyasaka/bdd/benchmark/run.sh: 2 \xe8\xa1\x8c: 53929 Segmentation fault      (\xe3\x82\xb3\xe3\x82\xa2\xe3\x83\x80\xe3\x83\xb3\xe3\x83\x97) $1 $f\n'}
+{0: 3414210, 1: 8388608, 2: 512, 3: 3489290}
+{'time': 33.038450956344604, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 3414210, 1: 16777216, 2: 512, 3: 240693}
+{'time': 25.15087389945984, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 272353682, 1: 16384, 2: 32768, 3: 95336}
+{'time': inf, 'timeout': True, 'returncode': -9, 'stdout': b'', 'stderr': b''}
+{0: 63974112, 1: 256, 2: 262144, 3: 46560758}
+{'time': 32.325581312179565, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 3414210, 1: 16777216, 2: 65536, 3: 5482856}
+{'time': 23.895365953445435, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2867, 1: 16777216, 2: 65536, 3: 3489290}
+{'time': 23.32191562652588, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 4381601, 1: 16777216, 2: 65536, 3: 3489290}
+{'time': 24.374902725219727, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2867, 1: 16777216, 2: 65536, 3: 12230}
+{'time': 29.8851158618927, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 815448, 1: 1048576, 2: 524288, 3: 3489290}
+{'time': 23.825480222702026, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2867, 1: 33554432, 2: 65536, 3: 104}
+{'time': 37.89338541030884, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2867, 1: 134217728, 2: 65536, 3: 3489290}
+{'time': 26.159751415252686, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2867, 1: 16777216, 2: 536870912, 3: 3489290}
+{'time': inf, 'timeout': True, 'returncode': -9, 'stdout': b'', 'stderr': b''}
+{0: 2867, 1: 16777216, 2: 65536, 3: 24469}
+{'time': 28.177336931228638, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 189084, 1: 16777216, 2: 524288, 3: 3489290}
+{'time': 24.064074516296387, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 100, 1: 536870912, 2: 2097152, 3: 1000000000}
+{'time': 20.13848352432251, 'timeout': False, 'returncode': 139, 'stdout': b'', 'stderr': b'/home/miyasaka/bdd/benchmark/run.sh: 2 \xe8\xa1\x8c: 55545 Segmentation fault      (\xe3\x82\xb3\xe3\x82\xa2\xe3\x83\x80\xe3\x83\xb3\xe3\x83\x97) $1 $f\n'}
+{0: 127, 1: 536870912, 2: 65536, 3: 3489290}
+{'time': 21.302791357040405, 'timeout': False, 'returncode': 139, 'stdout': b'', 'stderr': b'/home/miyasaka/bdd/benchmark/run.sh: 2 \xe8\xa1\x8c: 55618 Segmentation fault      (\xe3\x82\xb3\xe3\x82\xa2\xe3\x83\x80\xe3\x83\xb3\xe3\x83\x97) $1 $f\n'}
+{0: 102, 1: 16777216, 2: 65536, 3: 3489290}
+{'time': 15.365285158157349, 'timeout': False, 'returncode': 139, 'stdout': b'', 'stderr': b'/home/miyasaka/bdd/benchmark/run.sh: 2 \xe8\xa1\x8c: 55690 Segmentation fault      (\xe3\x82\xb3\xe3\x82\xa2\xe3\x83\x80\xe3\x83\xb3\xe3\x83\x97) $1 $f\n'}
+{0: 809783, 1: 16777216, 2: 65536, 3: 3489290}
+{'time': 24.283968687057495, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 288, 1: 16777216, 2: 524288, 3: 69922360}
+{'time': 16.19720220565796, 'timeout': False, 'returncode': 139, 'stdout': b'', 'stderr': b'/home/miyasaka/bdd/benchmark/run.sh: 2 \xe8\xa1\x8c: 55870 Segmentation fault      (\xe3\x82\xb3\xe3\x82\xa2\xe3\x83\x80\xe3\x83\xb3\xe3\x83\x97) $1 $f\n'}
+{0: 930, 1: 268435456, 2: 524288, 3: 972526}
+{'time': 24.659748315811157, 'timeout': False, 'returncode': 139, 'stdout': b'', 'stderr': b'/home/miyasaka/bdd/benchmark/run.sh: 2 \xe8\xa1\x8c: 55941 Segmentation fault      (\xe3\x82\xb3\xe3\x82\xa2\xe3\x83\x80\xe3\x83\xb3\xe3\x83\x97) $1 $f\n'}
+{0: 184, 1: 262144, 2: 1024, 3: 24149}
+{'time': 15.780859470367432, 'timeout': False, 'returncode': 134, 'stdout': b'', 'stderr': b'double free or corruption (out)\n/home/miyasaka/bdd/benchmark/run.sh: 2 \xe8\xa1\x8c: 56027 \xe4\xb8\xad\xe6\xad\xa2                  (\xe3\x82\xb3\xe3\x82\xa2\xe3\x83\x80\xe3\x83\xb3\xe3\x83\x97) $1 $f\n'}
+{0: 124, 1: 65536, 2: 32768, 3: 197804}
+{'time': 15.565176248550415, 'timeout': False, 'returncode': 139, 'stdout': b'', 'stderr': b'/home/miyasaka/bdd/benchmark/run.sh: 2 \xe8\xa1\x8c: 56098 Segmentation fault      (\xe3\x82\xb3\xe3\x82\xa2\xe3\x83\x80\xe3\x83\xb3\xe3\x83\x97) $1 $f\n'}
+{0: 260843, 1: 32768, 2: 65536, 3: 1253089}
+{'time': 24.399263381958008, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 59347758, 1: 16777216, 2: 65536, 3: 3489290}
+{'time': 32.05549192428589, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2867, 1: 16777216, 2: 1073741824, 3: 3489290}
+{'time': inf, 'timeout': True, 'returncode': -9, 'stdout': b'', 'stderr': b''}
+{0: 2867, 1: 4096, 2: 16384, 3: 3489290}
+{'time': 26.470636129379272, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 32313518, 1: 512, 2: 16384, 3: 85902}
+{'time': 29.706085920333862, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2867, 1: 2097152, 2: 524288, 3: 3489290}
+{'time': 24.57732343673706, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 3617, 1: 1048576, 2: 1048576, 3: 3489290}
+{'time': 24.6644024848938, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 390, 1: 16777216, 2: 65536, 3: 6608870}
+{'time': 16.71236228942871, 'timeout': False, 'returncode': 139, 'stdout': b'', 'stderr': b'/home/miyasaka/bdd/benchmark/run.sh: 2 \xe8\xa1\x8c: 56883 Segmentation fault      (\xe3\x82\xb3\xe3\x82\xa2\xe3\x83\x80\xe3\x83\xb3\xe3\x83\x97) $1 $f\n'}
+{0: 1000000000, 1: 128, 2: 128, 3: 320212911}
+{'time': inf, 'timeout': True, 'returncode': -9, 'stdout': b'', 'stderr': b''}
+{0: 149, 1: 262144, 2: 1048576, 3: 100}
+{'time': 21.62779688835144, 'timeout': False, 'returncode': 139, 'stdout': b'', 'stderr': b'/home/miyasaka/bdd/benchmark/run.sh: 2 \xe8\xa1\x8c: 56987 Segmentation fault      (\xe3\x82\xb3\xe3\x82\xa2\xe3\x83\x80\xe3\x83\xb3\xe3\x83\x97) $1 $f\n'}
+{0: 7884701, 1: 4096, 2: 2097152, 3: 4617}
+{'time': 41.002516746520996, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 1027, 1: 4194304, 2: 1073741824, 3: 7991}
+{'time': inf, 'timeout': True, 'returncode': -9, 'stdout': b'', 'stderr': b''}
+{0: 2989246, 1: 8192, 2: 4096, 3: 51197630}
+{'time': 47.51703596115112, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2867, 1: 16777216, 2: 65536, 3: 5676525}
+{'time': 23.51386594772339, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2867, 1: 16777216, 2: 512, 3: 3489290}
+{'time': 33.2812340259552, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 940413, 1: 16777216, 2: 32768, 3: 3489290}
+{'time': 23.744731903076172, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 1000000000, 1: 128, 2: 256, 3: 260196}
+{'time': inf, 'timeout': True, 'returncode': -9, 'stdout': b'', 'stderr': b''}
+{0: 2547, 1: 16777216, 2: 33554432, 3: 3489290}
+{'time': 31.298149585723877, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2867, 1: 16777216, 2: 2097152, 3: 3489290}
+{'time': 25.87287473678589, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2867, 1: 16777216, 2: 65536, 3: 188956494}
+{'time': 24.123863220214844, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 13277222, 1: 4096, 2: 2048, 3: 2105502}
+{'time': 30.3504056930542, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 9408, 1: 33554432, 2: 65536, 3: 3489290}
+{'time': 23.795396327972412, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2867, 1: 134217728, 2: 262144, 3: 3489290}
+{'time': 27.199291467666626, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2867, 1: 67108864, 2: 4096, 3: 3489290}
+{'time': 27.156272172927856, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 11518534, 1: 65536, 2: 32768, 3: 153655}
+{'time': 25.800737142562866, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 101, 1: 33554432, 2: 2048, 3: 551854}
+{'time': 15.504338264465332, 'timeout': False, 'returncode': 139, 'stdout': b'', 'stderr': b'/home/miyasaka/bdd/benchmark/run.sh: 2 \xe8\xa1\x8c: 58605 Segmentation fault      (\xe3\x82\xb3\xe3\x82\xa2\xe3\x83\x80\xe3\x83\xb3\xe3\x83\x97) $1 $f\n'}
+{0: 100, 1: 262144, 2: 4096, 3: 114}
+{'time': 19.251433849334717, 'timeout': False, 'returncode': 139, 'stdout': b'', 'stderr': b'/home/miyasaka/bdd/benchmark/run.sh: 2 \xe8\xa1\x8c: 58678 Segmentation fault      (\xe3\x82\xb3\xe3\x82\xa2\xe3\x83\x80\xe3\x83\xb3\xe3\x83\x97) $1 $f\n'}
+{0: 5773279, 1: 536870912, 2: 16384, 3: 8697954}
+{'time': 36.77213454246521, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 19835476, 1: 128, 2: 16777216, 3: 1012906}
+{'time': 34.96953010559082, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2867, 1: 16384, 2: 8192, 3: 113}
+{'time': 35.059497356414795, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2867, 1: 33554432, 2: 65536, 3: 3489290}
+{'time': 24.131051301956177, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2867, 1: 16777216, 2: 268435456, 3: 3489290}
+{'time': 48.128740549087524, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 4577702, 1: 1048576, 2: 4096, 3: 2839271}
+{'time': 25.841143131256104, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2576, 1: 8388608, 2: 65536, 3: 3489290}
+{'time': 23.169581174850464, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 91522, 1: 16777216, 2: 65536, 3: 5400527}
+{'time': 23.359160900115967, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 22559, 1: 33554432, 2: 65536, 3: 3489290}
+{'time': 23.72543478012085, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2576, 1: 134217728, 2: 65536, 3: 3489290}
+{'time': 26.160879373550415, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2576, 1: 8388608, 2: 65536, 3: 26915515}
+{'time': 23.289230346679688, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2576, 1: 8388608, 2: 65536, 3: 10117722}
+{'time': 23.075254917144775, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2576, 1: 536870912, 2: 65536, 3: 3489290}
+{'time': 34.70152711868286, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2576, 1: 134217728, 2: 65536, 3: 417993}
+{'time': 26.656188249588013, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2576, 1: 67108864, 2: 65536, 3: 2949929}
+{'time': 24.589773654937744, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 16857, 1: 8388608, 2: 131072, 3: 2316323}
+{'time': 22.96607232093811, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2576, 1: 8388608, 2: 65536, 3: 4697491}
+{'time': 23.11730933189392, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 16857, 1: 67108864, 2: 131072, 3: 2316323}
+{'time': 24.500288009643555, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 16857, 1: 8388608, 2: 32768, 3: 1252547}
+{'time': 22.884865045547485, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 541999, 1: 8388608, 2: 131072, 3: 108126}
+{'time': 27.158217668533325, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 16857, 1: 268435456, 2: 131072, 3: 1155526}
+{'time': 28.89899754524231, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 16857, 1: 8388608, 2: 32768, 3: 7884373}
+{'time': 23.170846939086914, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 16857, 1: 8388608, 2: 16384, 3: 1302328}
+{'time': 23.14617156982422, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 16857, 1: 8388608, 2: 32768, 3: 158408}
+{'time': 23.697707414627075, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 16857, 1: 8388608, 2: 16384, 3: 170731}
+{'time': 23.297505140304565, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 16857, 1: 8388608, 2: 16384, 3: 386067}
+{'time': 23.378522157669067, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 45197, 1: 2097152, 2: 32768, 3: 1252547}
+{'time': 23.205618381500244, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 44096, 1: 16777216, 2: 32768, 3: 1005095}
+{'time': 23.263511419296265, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 16857, 1: 33554432, 2: 65536, 3: 1252547}
+{'time': 23.8089497089386, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 18527, 1: 524288, 2: 32768, 3: 1252547}
+{'time': 23.52648663520813, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 16857, 1: 16777216, 2: 32768, 3: 1252547}
+{'time': 23.197307348251343, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 16857, 1: 8388608, 2: 8192, 3: 27818}
+{'time': 24.13112783432007, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 16857, 1: 33554432, 2: 32768, 3: 1252547}
+{'time': 23.77021551132202, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 9817, 1: 8388608, 2: 32768, 3: 1252547}
+{'time': 22.77958083152771, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 16857, 1: 4194304, 2: 65536, 3: 1252547}
+{'time': 22.916593313217163, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 16857, 1: 2097152, 2: 32768, 3: 1252547}
+{'time': 23.09540319442749, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 10784, 1: 8388608, 2: 32768, 3: 1311159}
+{'time': 22.804415702819824, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 9817, 1: 8388608, 2: 32768, 3: 753798}
+{'time': 22.897952795028687, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 7652, 1: 8388608, 2: 262144, 3: 19790911}
+{'time': 22.952741146087646, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 32759, 1: 2097152, 2: 32768, 3: 4745319}
+{'time': 23.769530773162842, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 9817, 1: 524288, 2: 32768, 3: 72814}
+{'time': 24.60020613670349, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 9817, 1: 2097152, 2: 131072, 3: 2579710}
+{'time': 23.269413948059082, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 9817, 1: 8388608, 2: 8192, 3: 1252547}
+{'time': 23.404571533203125, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 9817, 1: 8388608, 2: 32768, 3: 3753891}
+{'time': 22.903024673461914, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 9817, 1: 8388608, 2: 524288, 3: 1252547}
+{'time': 23.983696699142456, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 527, 1: 8388608, 2: 8192, 3: 1252547}
+{'time': 16.993940830230713, 'timeout': False, 'returncode': 139, 'stdout': b'', 'stderr': b'/home/miyasaka/bdd/benchmark/run.sh: 2 \xe8\xa1\x8c: 63796 Segmentation fault      (\xe3\x82\xb3\xe3\x82\xa2\xe3\x83\x80\xe3\x83\xb3\xe3\x83\x97) $1 $f\n'}
+{0: 452, 1: 8388608, 2: 65536, 3: 75714}
+{'time': 18.005115509033203, 'timeout': False, 'returncode': 139, 'stdout': b'', 'stderr': b'/home/miyasaka/bdd/benchmark/run.sh: 2 \xe8\xa1\x8c: 63878 Segmentation fault      (\xe3\x82\xb3\xe3\x82\xa2\xe3\x83\x80\xe3\x83\xb3\xe3\x83\x97) $1 $f\n'}
+{0: 9817, 1: 8388608, 2: 131072, 3: 28060018}
+{'time': 22.81956720352173, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 6832, 1: 8388608, 2: 65536, 3: 893200}
+{'time': 23.286455154418945, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2237, 1: 262144, 2: 32768, 3: 3180599}
+{'time': 23.919193506240845, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 9817, 1: 4194304, 2: 32768, 3: 60848676}
+{'time': 23.990150690078735, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 9817, 1: 8388608, 2: 65536, 3: 1252547}
+{'time': 22.84860634803772, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 104135, 1: 16777216, 2: 32768, 3: 1252547}
+{'time': 23.173243522644043, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 55735, 1: 2097152, 2: 32768, 3: 1252547}
+{'time': 23.163318395614624, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 9817, 1: 134217728, 2: 32768, 3: 1252547}
+{'time': 25.830873250961304, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 9817, 1: 8388608, 2: 4096, 3: 1252547}
+{'time': 24.1052143573761, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 6415, 1: 8388608, 2: 32768, 3: 1252547}
+{'time': 22.901202917099, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 188473, 1: 524288, 2: 32768, 3: 1252547}
+{'time': 23.47758460044861, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 131262, 1: 8388608, 2: 32768, 3: 178277}
+{'time': 23.77334690093994, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 9817, 1: 8388608, 2: 1024, 3: 1252547}
+{'time': 25.430253267288208, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 5513, 1: 4194304, 2: 1024, 3: 1252547}
+{'time': 25.85819101333618, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 6728, 1: 8388608, 2: 32768, 3: 242429}
+{'time': 23.50331401824951, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 206291, 1: 67108864, 2: 32768, 3: 1252547}
+{'time': 24.728538513183594, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 67459, 1: 67108864, 2: 128, 3: 5125}
+{'time': 26.071659803390503, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 24633, 1: 8388608, 2: 32768, 3: 1252547}
+{'time': 25.06924605369568, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 194893, 1: 8388608, 2: 131072, 3: 1252547}
+{'time': 25.206809282302856, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 9817, 1: 8388608, 2: 65536, 3: 167118}
+{'time': 25.003016233444214, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 662219, 1: 1048576, 2: 1024, 3: 105656}
+{'time': 23.783643007278442, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 84371, 1: 16384, 2: 8388608, 3: 114}
+{'time': 37.776692152023315, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 804, 1: 128, 2: 2097152, 3: 71652}
+{'time': 25.149308681488037, 'timeout': False, 'returncode': 139, 'stdout': b'', 'stderr': b'/home/miyasaka/bdd/benchmark/run.sh: 2 \xe8\xa1\x8c: 66415 Segmentation fault      (\xe3\x82\xb3\xe3\x82\xa2\xe3\x83\x80\xe3\x83\xb3\xe3\x83\x97) $1 $f\n'}
+{0: 154, 1: 134217728, 2: 33554432, 3: 21236832}
+{'time': 18.665398597717285, 'timeout': False, 'returncode': 139, 'stdout': b'', 'stderr': b'/home/miyasaka/bdd/benchmark/run.sh: 2 \xe8\xa1\x8c: 66487 Segmentation fault      (\xe3\x82\xb3\xe3\x82\xa2\xe3\x83\x80\xe3\x83\xb3\xe3\x83\x97) $1 $f\n'}
+{0: 32218, 1: 4194304, 2: 32768, 3: 1322585}
+{'time': 22.83771562576294, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 9817, 1: 16777216, 2: 16384, 3: 1549817}
+{'time': 23.24272394180298, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 27099, 1: 8388608, 2: 32768, 3: 519362}
+{'time': 22.952696084976196, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 4705, 1: 8388608, 2: 131072, 3: 1887653}
+{'time': 23.465208530426025, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 100830, 1: 134217728, 2: 131072, 3: 63759}
+{'time': 29.623754024505615, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 9817, 1: 512, 2: 32768, 3: 1252547}
+{'time': 24.250407457351685, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 9817, 1: 2097152, 2: 131072, 3: 1252547}
+{'time': 23.27968978881836, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 512736, 1: 4194304, 2: 32768, 3: 204440}
+{'time': 23.57608675956726, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 48451, 1: 4194304, 2: 32768, 3: 1252547}
+{'time': 23.017489433288574, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 9817, 1: 16777216, 2: 32768, 3: 1252547}
+{'time': 23.396929502487183, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 9817, 1: 8388608, 2: 131072, 3: 1252547}
+{'time': 23.082624197006226, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 120358, 1: 131072, 2: 262144, 3: 8736}
+{'time': 33.68090558052063, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 170, 1: 65536, 2: 16777216, 3: 2576045}
+{'time': 18.98345375061035, 'timeout': False, 'returncode': 139, 'stdout': b'', 'stderr': b'/home/miyasaka/bdd/benchmark/run.sh: 2 \xe8\xa1\x8c: 67911 Segmentation fault      (\xe3\x82\xb3\xe3\x82\xa2\xe3\x83\x80\xe3\x83\xb3\xe3\x83\x97) $1 $f\n'}
+{0: 727, 1: 67108864, 2: 4096, 3: 370250}
+{'time': 19.46301245689392, 'timeout': False, 'returncode': 139, 'stdout': b'', 'stderr': b'/home/miyasaka/bdd/benchmark/run.sh: 2 \xe8\xa1\x8c: 67985 Segmentation fault      (\xe3\x82\xb3\xe3\x82\xa2\xe3\x83\x80\xe3\x83\xb3\xe3\x83\x97) $1 $f\n'}
+{0: 6958715, 1: 134217728, 2: 16384, 3: 397}
+{'time': 38.235881090164185, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 1694, 1: 4194304, 2: 32768, 3: 1252547}
+{'time': 23.43938374519348, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 7002, 1: 1048576, 2: 32768, 3: 1252547}
+{'time': 23.52507257461548, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 9817, 1: 268435456, 2: 32768, 3: 1252547}
+{'time': 30.130855083465576, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2495948, 1: 1048576, 2: 8192, 3: 1080837}
+{'time': 24.286673069000244, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 9817, 1: 524288, 2: 32768, 3: 1252547}
+{'time': 23.54040789604187, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 9817, 1: 1024, 2: 32768, 3: 1252547}
+{'time': 24.389994144439697, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 1150803, 1: 8388608, 2: 32768, 3: 1252547}
+{'time': 23.11848258972168, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 13298, 1: 33554432, 2: 4096, 3: 1654094}
+{'time': 24.789942741394043, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 18651, 1: 8388608, 2: 1048576, 3: 19527700}
+{'time': 23.071130990982056, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 27856, 1: 8388608, 2: 32768, 3: 1252547}
+{'time': 22.967308282852173, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 13757, 1: 8388608, 2: 8192, 3: 74232}
+{'time': 23.63903260231018, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 126232, 1: 4194304, 2: 8192, 3: 749036}
+{'time': 23.642733812332153, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 9817, 1: 8388608, 2: 32768, 3: 1369}
+{'time': 32.26303195953369, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 102, 1: 134217728, 2: 65536, 3: 168}
+{'time': 22.290897846221924, 'timeout': False, 'returncode': 139, 'stdout': b'', 'stderr': b'/home/miyasaka/bdd/benchmark/run.sh: 2 \xe8\xa1\x8c: 69608 Segmentation fault      (\xe3\x82\xb3\xe3\x82\xa2\xe3\x83\x80\xe3\x83\xb3\xe3\x83\x97) $1 $f\n'}
+{0: 9628496, 1: 33554432, 2: 268435456, 3: 611}
+{'time': 49.474215030670166, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 169, 1: 268435456, 2: 134217728, 3: 105}
+{'time': 23.56784200668335, 'timeout': False, 'returncode': 139, 'stdout': b'', 'stderr': b'/home/miyasaka/bdd/benchmark/run.sh: 2 \xe8\xa1\x8c: 69805 Segmentation fault      (\xe3\x82\xb3\xe3\x82\xa2\xe3\x83\x80\xe3\x83\xb3\xe3\x83\x97) $1 $f\n'}
+{0: 832900723, 1: 16384, 2: 4096, 3: 248140}
+{'time': inf, 'timeout': True, 'returncode': -9, 'stdout': b'', 'stderr': b''}
+{0: 1716330, 1: 1073741824, 2: 128, 3: 64380}
+{'time': 47.926612854003906, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 9817, 1: 67108864, 2: 32768, 3: 1252547}
+{'time': 24.467753887176514, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 5227, 1: 134217728, 2: 16384, 3: 86403008}
+{'time': 28.186981201171875, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 357049, 1: 262144, 2: 16384, 3: 763881}
+{'time': 23.60399580001831, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 97398, 1: 8388608, 2: 32768, 3: 469751}
+{'time': 23.47150444984436, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 9817, 1: 4194304, 2: 32768, 3: 741800}
+{'time': 23.230814218521118, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 9817, 1: 33554432, 2: 65536, 3: 112142}
+{'time': 25.470693588256836, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 22714, 1: 1048576, 2: 8192, 3: 64301}
+{'time': 23.970857620239258, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 9817, 1: 8388608, 2: 32768, 3: 2077417}
+{'time': 22.929584980010986, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 9817, 1: 8388608, 2: 32768, 3: 103}
+{'time': 36.46497297286987, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 47937118, 1: 8388608, 2: 32768, 3: 1252547}
+{'time': 29.207095861434937, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 108576, 1: 1048576, 2: 8192, 3: 164639}
+{'time': 23.93644118309021, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 9817, 1: 8388608, 2: 4096, 3: 307494}
+{'time': 23.78210163116455, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 1621, 1: 33554432, 2: 32768, 3: 1252547}
+{'time': 23.867535829544067, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 7504, 1: 67108864, 2: 32768, 3: 1252547}
+{'time': 24.744914054870605, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 4358, 1: 65536, 2: 4194304, 3: 1017}
+{'time': 38.259799003601074, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 103, 1: 16777216, 2: 16384, 3: 546883}
+{'time': 14.94166874885559, 'timeout': False, 'returncode': 139, 'stdout': b'', 'stderr': b'/home/miyasaka/bdd/benchmark/run.sh: 2 \xe8\xa1\x8c: 71719 Segmentation fault      (\xe3\x82\xb3\xe3\x82\xa2\xe3\x83\x80\xe3\x83\xb3\xe3\x83\x97) $1 $f\n'}
+{0: 16607908, 1: 67108864, 2: 134217728, 3: 207}
+{'time': 39.81400537490845, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 22568096, 1: 8192, 2: 65536, 3: 49307686}
+{'time': 27.909240007400513, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 1824151, 1: 1048576, 2: 8192, 3: 895412}
+{'time': 23.81487727165222, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 9817, 1: 8388608, 2: 2048, 3: 158610352}
+{'time': 51.83969521522522, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 9817, 1: 8388608, 2: 33554432, 3: 1252547}
+{'time': 31.783003091812134, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 426, 1: 8388608, 2: 32768, 3: 1252547}
+{'time': 16.636486053466797, 'timeout': False, 'returncode': 139, 'stdout': b'', 'stderr': b'/home/miyasaka/bdd/benchmark/run.sh: 2 \xe8\xa1\x8c: 72350 Segmentation fault      (\xe3\x82\xb3\xe3\x82\xa2\xe3\x83\x80\xe3\x83\xb3\xe3\x83\x97) $1 $f\n'}
+{0: 712084, 1: 1048576, 2: 8192, 3: 509126}
+{'time': 23.742182731628418, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 9817, 1: 131072, 2: 262144, 3: 1252547}
+{'time': 24.044167518615723, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 9817, 1: 8388608, 2: 32768, 3: 43886870}
+{'time': 23.80947709083557, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 1472, 1: 16777216, 2: 32768, 3: 17404849}
+{'time': 24.00820803642273, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 151496, 1: 1048576, 2: 524288, 3: 4283838}
+{'time': 23.63646912574768, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 9817, 1: 4194304, 2: 4096, 3: 373471}
+{'time': 23.709028482437134, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 9803, 1: 2097152, 2: 32768, 3: 1252547}
+{'time': 23.453789710998535, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 9817, 1: 8388608, 2: 4096, 3: 6290002}
+{'time': 25.910804986953735, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 247684, 1: 1048576, 2: 65536, 3: 1246653}
+{'time': 23.479528188705444, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 163, 1: 32768, 2: 128, 3: 148}
+{'time': 16.72074317932129, 'timeout': False, 'returncode': 139, 'stdout': b'', 'stderr': b'/home/miyasaka/bdd/benchmark/run.sh: 2 \xe8\xa1\x8c: 73424 Segmentation fault      (\xe3\x82\xb3\xe3\x82\xa2\xe3\x83\x80\xe3\x83\xb3\xe3\x83\x97) $1 $f\n'}
+{0: 179, 1: 67108864, 2: 8192, 3: 405358180}
+{'time': 26.279321670532227, 'timeout': False, 'returncode': 139, 'stdout': b'', 'stderr': b'/home/miyasaka/bdd/benchmark/run.sh: 2 \xe8\xa1\x8c: 73495 Segmentation fault      (\xe3\x82\xb3\xe3\x82\xa2\xe3\x83\x80\xe3\x83\xb3\xe3\x83\x97) $1 $f\n'}
+{0: 1559918, 1: 4194304, 2: 67108864, 3: 468516716}
+{'time': 32.13645124435425, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 9817, 1: 8388608, 2: 32768, 3: 109}
+{'time': 36.848061084747314, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 9817, 1: 2097152, 2: 32768, 3: 1252547}
+{'time': 23.02200675010681, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 9817, 1: 8388608, 2: 32768, 3: 1496}
+{'time': 32.1673219203949, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 183310281, 1: 8388608, 2: 32768, 3: 1252547}
+{'time': 46.450413942337036, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 72663, 1: 1048576, 2: 65536, 3: 810410}
+{'time': 23.63769555091858, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 9817, 1: 131072, 2: 1024, 3: 1252547}
+{'time': 27.810447216033936, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 18099, 1: 8388608, 2: 8192, 3: 1252547}
+{'time': 23.374396085739136, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 9817, 1: 8388608, 2: 32768, 3: 597929}
+{'time': 22.816038370132446, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 155447, 1: 1048576, 2: 32768, 3: 694081}
+{'time': 23.510563135147095, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 20224869, 1: 1024, 2: 536870912, 3: 2231426}
+{'time': inf, 'timeout': True, 'returncode': -9, 'stdout': b'', 'stderr': b''}
+{0: 188965942, 1: 2048, 2: 8388608, 3: 1229466}
+{'time': 54.89137315750122, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 219, 1: 262144, 2: 128, 3: 384}
+{'time': 16.1222927570343, 'timeout': False, 'returncode': 139, 'stdout': b'', 'stderr': b'/home/miyasaka/bdd/benchmark/run.sh: 2 \xe8\xa1\x8c: 74927 Segmentation fault      (\xe3\x82\xb3\xe3\x82\xa2\xe3\x83\x80\xe3\x83\xb3\xe3\x83\x97) $1 $f\n'}
+{0: 927586, 1: 65536, 2: 524288, 3: 450923}
+{'time': 26.269410848617554, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 9817, 1: 8388608, 2: 32768, 3: 381047}
+{'time': 23.292089223861694, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 197351, 1: 33554432, 2: 32768, 3: 1252547}
+{'time': 23.755638360977173, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 9817, 1: 8388608, 2: 32768, 3: 13610126}
+{'time': 23.259093046188354, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 175989, 1: 2097152, 2: 16384, 3: 688285}
+{'time': 23.141561269760132, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 101, 1: 8388608, 2: 32768, 3: 1252547}
+{'time': 14.934324502944946, 'timeout': False, 'returncode': 139, 'stdout': b'', 'stderr': b'/home/miyasaka/bdd/benchmark/run.sh: 2 \xe8\xa1\x8c: 75557 Segmentation fault      (\xe3\x82\xb3\xe3\x82\xa2\xe3\x83\x80\xe3\x83\xb3\xe3\x83\x97) $1 $f\n'}
+{0: 9817, 1: 8388608, 2: 32768, 3: 80947}
+{'time': 24.36263155937195, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 141483, 1: 16777216, 2: 131072, 3: 412116}
+{'time': 24.70259404182434, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 378, 1: 8388608, 2: 65536, 3: 826489}
+{'time': 16.21869158744812, 'timeout': False, 'returncode': 139, 'stdout': b'', 'stderr': b'/home/miyasaka/bdd/benchmark/run.sh: 2 \xe8\xa1\x8c: 75852 Segmentation fault      (\xe3\x82\xb3\xe3\x82\xa2\xe3\x83\x80\xe3\x83\xb3\xe3\x83\x97) $1 $f\n'}
+{0: 305994, 1: 524288, 2: 16384, 3: 689217}
+{'time': 23.442995071411133, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 1147794, 1: 4194304, 2: 2097152, 3: 9953}
+{'time': 36.35210061073303, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 3624301, 1: 134217728, 2: 256, 3: 4653004}
+{'time': 43.60789656639099, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 184, 1: 65536, 2: 65536, 3: 24149}
+{'time': 18.34111976623535, 'timeout': False, 'returncode': 139, 'stdout': b'', 'stderr': b'/home/miyasaka/bdd/benchmark/run.sh: 2 \xe8\xa1\x8c: 76255 Segmentation fault      (\xe3\x82\xb3\xe3\x82\xa2\xe3\x83\x80\xe3\x83\xb3\xe3\x83\x97) $1 $f\n'}
+{0: 62584, 1: 65536, 2: 32768, 3: 5411848}
+{'time': 24.403713941574097, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 56603, 1: 67108864, 2: 65536, 3: 1252547}
+{'time': 24.646004676818848, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2798, 1: 8388608, 2: 32768, 3: 1252547}
+{'time': 22.939631462097168, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 9817, 1: 8388608, 2: 32768, 3: 41234052}
+{'time': 23.598583221435547, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 9817, 1: 8388608, 2: 32768, 3: 150003652}
+{'time': 23.920703649520874, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 9817, 1: 8388608, 2: 268435456, 3: 280}
+{'time': 48.014424085617065, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 9817, 1: 8388608, 2: 32768, 3: 1700271}
+{'time': 23.446732997894287, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 361069, 1: 2097152, 2: 32768, 3: 352891}
+{'time': 23.234227180480957, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 124, 1: 2097152, 2: 128, 3: 100}
+{'time': 16.155098915100098, 'timeout': False, 'returncode': 139, 'stdout': b'', 'stderr': b'/home/miyasaka/bdd/benchmark/run.sh: 2 \xe8\xa1\x8c: 77209 Segmentation fault      (\xe3\x82\xb3\xe3\x82\xa2\xe3\x83\x80\xe3\x83\xb3\xe3\x83\x97) $1 $f\n'}
+{0: 7384301, 1: 67108864, 2: 1048576, 3: 100}
+{'time': 40.08212924003601, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 7884701, 1: 4096, 2: 67108864, 3: 4617}
+{'time': 32.38453936576843, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 551383, 1: 1048576, 2: 32768, 3: 651202}
+{'time': 23.46000361442566, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 9817, 1: 8388608, 2: 2048, 3: 1252547}
+{'time': 24.70749068260193, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 9817, 1: 4194304, 2: 32768, 3: 1252547}
+{'time': 22.75279688835144, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 509, 1: 4194304, 2: 4096, 3: 1252547}
+{'time': 19.348784923553467, 'timeout': False, 'returncode': 139, 'stdout': b'', 'stderr': b'/home/miyasaka/bdd/benchmark/run.sh: 2 \xe8\xa1\x8c: 77880 Segmentation fault      (\xe3\x82\xb3\xe3\x82\xa2\xe3\x83\x80\xe3\x83\xb3\xe3\x83\x97) $1 $f\n'}
+{0: 9817, 1: 4194304, 2: 262144, 3: 1252547}
+{'time': 23.47684597969055, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 9089, 1: 4194304, 2: 32768, 3: 1252547}
+{'time': 22.841970682144165, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 5366, 1: 4194304, 2: 4096, 3: 1252547}
+{'time': 23.862589597702026, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 36321, 1: 8388608, 2: 131072, 3: 1252547}
+{'time': 23.169058561325073, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2181, 1: 4194304, 2: 32768, 3: 1252547}
+{'time': 23.185353994369507, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 9817, 1: 4194304, 2: 32768, 3: 2420484}
+{'time': 22.90780782699585, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 73584, 1: 4194304, 2: 32768, 3: 1252547}
+{'time': 22.861402988433838, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2628, 1: 8388608, 2: 65536, 3: 1252547}
+{'time': 23.0217707157135, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 9817, 1: 1048576, 2: 32768, 3: 235930}
+{'time': 23.69504404067993, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 6489, 1: 4194304, 2: 32768, 3: 42604843}
+{'time': 23.817536115646362, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 7781, 1: 4194304, 2: 32768, 3: 377958}
+{'time': 23.279924154281616, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 22631, 1: 4194304, 2: 32768, 3: 1252547}
+{'time': 23.12618851661682, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 9817, 1: 4194304, 2: 32768, 3: 1801928}
+{'time': 23.131047010421753, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 9817, 1: 4194304, 2: 16384, 3: 1412596}
+{'time': 22.84702229499817, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 9817, 1: 65536, 2: 32768, 3: 1252547}
+{'time': 23.86419367790222, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 9817, 1: 33554432, 2: 262144, 3: 1252547}
+{'time': 24.040191650390625, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 9817, 1: 2097152, 2: 65536, 3: 1252547}
+{'time': 23.206881761550903, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 90740, 1: 4194304, 2: 32768, 3: 1252547}
+{'time': 22.89499545097351, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 12048, 1: 4194304, 2: 8192, 3: 1238719}
+{'time': 23.25874352455139, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2834, 1: 4194304, 2: 2048, 3: 2863188}
+{'time': 26.310603857040405, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 403, 1: 4194304, 2: 131072, 3: 1252547}
+{'time': 16.594149112701416, 'timeout': False, 'returncode': 139, 'stdout': b'', 'stderr': b'/home/miyasaka/bdd/benchmark/run.sh: 2 \xe8\xa1\x8c: 80168 Segmentation fault      (\xe3\x82\xb3\xe3\x82\xa2\xe3\x83\x80\xe3\x83\xb3\xe3\x83\x97) $1 $f\n'}
+{0: 9817, 1: 33554432, 2: 65536, 3: 118768}
+{'time': 25.410755395889282, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 2729, 1: 4194304, 2: 32768, 3: 1555308}
+{'time': 23.041775703430176, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 9817, 1: 4194304, 2: 4096, 3: 186786}
+{'time': 23.565598726272583, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 9817, 1: 4194304, 2: 65536, 3: 1252547}
+{'time': 22.735284090042114, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 1096, 1: 131072, 2: 32768, 3: 135827}
+{'time': 24.32923674583435, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 9817, 1: 4194304, 2: 65536, 3: 741672}
+{'time': 22.995922565460205, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 9817, 1: 4194304, 2: 65536, 3: 648145}
+{'time': 22.98505926132202, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 9817, 1: 134217728, 2: 131072, 3: 1252547}
+{'time': 26.255413055419922, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 392010, 1: 262144, 2: 65536, 3: 510591}
+{'time': 23.838030338287354, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 35539, 1: 4194304, 2: 65536, 3: 6411797}
+{'time': 22.966643810272217, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 127186, 1: 4194304, 2: 65536, 3: 2243906}
+{'time': 23.042704820632935, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 9817, 1: 4194304, 2: 65536, 3: 129558}
+{'time': 24.507546186447144, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 9817, 1: 4194304, 2: 65536, 3: 6045517}
+{'time': 22.802034378051758, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 174057, 1: 4194304, 2: 65536, 3: 19209475}
+{'time': 23.060970306396484, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 9817, 1: 33554432, 2: 65536, 3: 6728543}
+{'time': 23.895406246185303, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 12613, 1: 2097152, 2: 32768, 3: 1252547}
+{'time': 23.175245761871338, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 464, 1: 4194304, 2: 65536, 3: 26330814}
+{'time': 16.90857458114624, 'timeout': False, 'returncode': 139, 'stdout': b'', 'stderr': b'/home/miyasaka/bdd/benchmark/run.sh: 2 \xe8\xa1\x8c: 82030 Segmentation fault      (\xe3\x82\xb3\xe3\x82\xa2\xe3\x83\x80\xe3\x83\xb3\xe3\x83\x97) $1 $f\n'}
+{0: 57553, 1: 4194304, 2: 65536, 3: 25160721}
+{'time': 23.51852011680603, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 9817, 1: 2097152, 2: 1048576, 3: 1252547}
+{'time': 24.859419584274292, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 1187, 1: 33554432, 2: 65536, 3: 1252547}
+{'time': 23.842621564865112, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 110625, 1: 2097152, 2: 262144, 3: 1252547}
+{'time': 23.512309789657593, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 8897, 1: 4194304, 2: 65536, 3: 1252547}
+{'time': 22.892313718795776, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 5139, 1: 4194304, 2: 65536, 3: 1417592}
+{'time': 23.108142375946045, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 654, 1: 4194304, 2: 65536, 3: 14467065}
+{'time': 17.72678828239441, 'timeout': False, 'returncode': 139, 'stdout': b'', 'stderr': b'/home/miyasaka/bdd/benchmark/run.sh: 2 \xe8\xa1\x8c: 82772 Segmentation fault      (\xe3\x82\xb3\xe3\x82\xa2\xe3\x83\x80\xe3\x83\xb3\xe3\x83\x97) $1 $f\n'}
+{0: 8257, 1: 16777216, 2: 65536, 3: 1252547}
+{'time': 23.211803436279297, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 259, 1: 4194304, 2: 65536, 3: 62276954}
+{'time': 15.725881576538086, 'timeout': False, 'returncode': 139, 'stdout': b'', 'stderr': b'/home/miyasaka/bdd/benchmark/run.sh: 2 \xe8\xa1\x8c: 82958 Segmentation fault      (\xe3\x82\xb3\xe3\x82\xa2\xe3\x83\x80\xe3\x83\xb3\xe3\x83\x97) $1 $f\n'}
+{0: 93672, 1: 4194304, 2: 65536, 3: 1252547}
+{'time': 22.857272148132324, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 130533, 1: 4194304, 2: 65536, 3: 1252547}
+{'time': 22.99166440963745, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 9817, 1: 4194304, 2: 131072, 3: 3015385}
+{'time': 22.752439498901367, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 9817, 1: 4194304, 2: 32768, 3: 268370}
+{'time': 23.052364110946655, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 20901, 1: 4194304, 2: 65536, 3: 40483607}
+{'time': 23.304989337921143, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 16908, 1: 4194304, 2: 32768, 3: 1252547}
+{'time': 22.809931755065918, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 1022, 1: 4194304, 2: 65536, 3: 1252547}
+{'time': 23.00406789779663, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 9817, 1: 16777216, 2: 65536, 3: 1252547}
+{'time': 23.232697248458862, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 9817, 1: 524288, 2: 524288, 3: 2857649}
+{'time': 23.92141556739807, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 1058, 1: 262144, 2: 262144, 3: 671906}
+{'time': 24.79358458518982, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 9817, 1: 4194304, 2: 4096, 3: 1252547}
+{'time': 24.288949966430664, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 9817, 1: 134217728, 2: 1048576, 3: 1252547}
+{'time': 28.14876627922058, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 9817, 1: 4194304, 2: 131072, 3: 1252547}
+{'time': 23.040866136550903, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 129612, 1: 4194304, 2: 65536, 3: 348544}
+{'time': 23.52725887298584, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 9969, 1: 4194304, 2: 65536, 3: 1252547}
+{'time': 22.736294269561768, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 9817, 1: 67108864, 2: 65536, 3: 302392}
+{'time': 25.047896146774292, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 9817, 1: 4194304, 2: 65536, 3: 4122718}
+{'time': 22.93557119369507, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 9817, 1: 262144, 2: 65536, 3: 7228066}
+{'time': 23.708715438842773, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 776, 1: 262144, 2: 1048576, 3: 1252547}
+{'time': 20.10926079750061, 'timeout': False, 'returncode': 139, 'stdout': b'', 'stderr': b'/home/miyasaka/bdd/benchmark/run.sh: 2 \xe8\xa1\x8c: 85024 Segmentation fault      (\xe3\x82\xb3\xe3\x82\xa2\xe3\x83\x80\xe3\x83\xb3\xe3\x83\x97) $1 $f\n'}
+{0: 9817, 1: 2097152, 2: 32768, 3: 175808}
+{'time': 23.67306137084961, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 295669, 1: 524288, 2: 65536, 3: 13817817}
+{'time': 23.653701543807983, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 5367, 1: 4194304, 2: 16384, 3: 1252547}
+{'time': 23.24451780319214, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 170, 1: 4194304, 2: 65536, 3: 258900}
+{'time': 15.439859867095947, 'timeout': False, 'returncode': 139, 'stdout': b'', 'stderr': b'/home/miyasaka/bdd/benchmark/run.sh: 2 \xe8\xa1\x8c: 85432 Segmentation fault      (\xe3\x82\xb3\xe3\x82\xa2\xe3\x83\x80\xe3\x83\xb3\xe3\x83\x97) $1 $f\n'}
+{0: 9817, 1: 4194304, 2: 524288, 3: 1252547}
+{'time': 23.913713693618774, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 9817, 1: 4194304, 2: 65536, 3: 400892}
+{'time': 23.509189128875732, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 9817, 1: 2097152, 2: 262144, 3: 1252547}
+{'time': 23.401548624038696, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 17743, 1: 4194304, 2: 65536, 3: 5120355}
+{'time': 22.96044158935547, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 3424, 1: 16777216, 2: 1048576, 3: 1252547}
+{'time': 25.47053360939026, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 1023, 1: 1048576, 2: 32768, 3: 1252547}
+{'time': 23.773716926574707, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 156, 1: 524288, 2: 65536, 3: 121125}
+{'time': 16.03410243988037, 'timeout': False, 'returncode': 139, 'stdout': b'', 'stderr': b'/home/miyasaka/bdd/benchmark/run.sh: 2 \xe8\xa1\x8c: 86187 Segmentation fault      (\xe3\x82\xb3\xe3\x82\xa2\xe3\x83\x80\xe3\x83\xb3\xe3\x83\x97) $1 $f\n'}
+{0: 9817, 1: 4194304, 2: 16384, 3: 3455416}
+{'time': 23.460164785385132, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 486, 1: 2097152, 2: 65536, 3: 240903}
+{'time': 17.230583667755127, 'timeout': False, 'returncode': 139, 'stdout': b'', 'stderr': b'/home/miyasaka/bdd/benchmark/run.sh: 2 \xe8\xa1\x8c: 86370 Segmentation fault      (\xe3\x82\xb3\xe3\x82\xa2\xe3\x83\x80\xe3\x83\xb3\xe3\x83\x97) $1 $f\n'}
+{0: 7285, 1: 4194304, 2: 32768, 3: 886698097}
+{'time': 24.380021810531616, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 9817, 1: 2097152, 2: 2048, 3: 11729283}
+{'time': 32.1814866065979, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 1045439, 1: 4194304, 2: 65536, 3: 124720}
+{'time': 24.445805072784424, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 17017, 1: 4194304, 2: 65536, 3: 1252547}
+{'time': 22.814754247665405, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 148, 1: 4194304, 2: 65536, 3: 10494297}
+{'time': 14.876075029373169, 'timeout': False, 'returncode': 139, 'stdout': b'', 'stderr': b'/home/miyasaka/bdd/benchmark/run.sh: 2 \xe8\xa1\x8c: 86883 Segmentation fault      (\xe3\x82\xb3\xe3\x82\xa2\xe3\x83\x80\xe3\x83\xb3\xe3\x83\x97) $1 $f\n'}
+{0: 51138, 1: 4194304, 2: 65536, 3: 1252547}
+{'time': 22.94628095626831, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 9817, 1: 4194304, 2: 65536, 3: 801727}
+{'time': 23.02652645111084, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 4866, 1: 4194304, 2: 65536, 3: 1252547}
+{'time': 22.79156231880188, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 144938, 1: 4194304, 2: 65536, 3: 1252547}
+{'time': 22.943324089050293, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 4408, 1: 4194304, 2: 65536, 3: 1252547}
+{'time': 23.038158178329468, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 5638, 1: 4194304, 2: 65536, 3: 1252547}
+{'time': 23.19160223007202, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 393764, 1: 4194304, 2: 131072, 3: 1252547}
+{'time': 23.143314123153687, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 43948, 1: 4194304, 2: 65536, 3: 5439659}
+{'time': 22.838629961013794, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 9817, 1: 4194304, 2: 65536, 3: 3074866}
+{'time': 22.68549633026123, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 9817, 1: 4194304, 2: 131072, 3: 3074866}
+{'time': 23.09495186805725, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 46694, 1: 8388608, 2: 16384, 3: 7006944}
+{'time': 23.794539213180542, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 9817, 1: 4194304, 2: 131072, 3: 7186738}
+{'time': 22.813772201538086, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 40348, 1: 1048576, 2: 4096, 3: 3074866}
+{'time': 25.6049587726593, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 656, 1: 4194304, 2: 8192, 3: 3074866}
+{'time': 18.237709760665894, 'timeout': False, 'returncode': 139, 'stdout': b'', 'stderr': b'/home/miyasaka/bdd/benchmark/run.sh: 2 \xe8\xa1\x8c: 88392 Segmentation fault      (\xe3\x82\xb3\xe3\x82\xa2\xe3\x83\x80\xe3\x83\xb3\xe3\x83\x97) $1 $f\n'}
+{0: 9817, 1: 4194304, 2: 65536, 3: 64804}
+{'time': 25.14677381515503, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 120836, 1: 4194304, 2: 65536, 3: 441300}
+{'time': 23.545047521591187, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 308545, 1: 4194304, 2: 8192, 3: 3074866}
+{'time': 23.95722460746765, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 1633, 1: 4194304, 2: 65536, 3: 9417647}
+{'time': 22.940951824188232, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 194689, 1: 4194304, 2: 65536, 3: 3074866}
+{'time': 22.867810487747192, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 9817, 1: 16777216, 2: 32768, 3: 3074866}
+{'time': 23.163092613220215, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 41512, 1: 4194304, 2: 65536, 3: 3074866}
+{'time': 22.861034393310547, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 108639, 1: 4194304, 2: 65536, 3: 3074866}
+{'time': 22.85828161239624, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 9817, 1: 4194304, 2: 262144, 3: 7530423}
+{'time': 23.4045569896698, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 10559, 1: 4194304, 2: 65536, 3: 5702526}
+{'time': 23.180612564086914, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 624, 1: 4194304, 2: 65536, 3: 3074866}
+{'time': 17.30705189704895, 'timeout': False, 'returncode': 139, 'stdout': b'', 'stderr': b'/home/miyasaka/bdd/benchmark/run.sh: 2 \xe8\xa1\x8c: 89571 Segmentation fault      (\xe3\x82\xb3\xe3\x82\xa2\xe3\x83\x80\xe3\x83\xb3\xe3\x83\x97) $1 $f\n'}
+{0: 252, 1: 4194304, 2: 65536, 3: 2634074}
+{'time': 15.414522647857666, 'timeout': False, 'returncode': 139, 'stdout': b'', 'stderr': b'/home/miyasaka/bdd/benchmark/run.sh: 2 \xe8\xa1\x8c: 89639 Segmentation fault      (\xe3\x82\xb3\xe3\x82\xa2\xe3\x83\x80\xe3\x83\xb3\xe3\x83\x97) $1 $f\n'}
+{0: 9817, 1: 1048576, 2: 65536, 3: 116083300}
+{'time': 24.592962741851807, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 1333, 1: 4194304, 2: 65536, 3: 6197750}
+{'time': 23.281676530838013, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+{0: 9817, 1: 4194304, 2: 4194304, 3: 3074866}
+{'time': 26.313374757766724, 'timeout': False, 'returncode': 0, 'stdout': b'', 'stderr': b''}
+### Results ###
+100 < 9817 < 1000000000
+128 < 4194304 < 1073741824
+128 < 65536 < 1073741824
+100 < 3074866 < 1000000000
