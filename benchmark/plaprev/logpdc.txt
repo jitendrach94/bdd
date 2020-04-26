@@ -1,0 +1,8 @@
+gate 370, wire 604, node 234, time 0
+mspf gate 370, wire 604, node 234, time 0.016
+mspf gate 367, wire 598, node 231, time 72.576
+mspf gate 306, wire 537, node 231, time 129.895
+mspf gate 304, wire 534, node 230, time 173.565
+mspf gate 303, wire 532, node 229, time 216.728
+mspf gate 301, wire 530, node 229, time 259.467
+gate 301, wire 530, node 229, time 301.705

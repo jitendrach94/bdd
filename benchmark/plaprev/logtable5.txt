@@ -1,0 +1,5 @@
+gate 716, wire 1163, node 447, time 0
+mspf gate 716, wire 1163, node 447, time 0.025
+mspf gate 702, wire 1139, node 437, time 1648.28
+mspf gate 527, wire 963, node 436, time 2397.3
+mspf gate 513, wire 949, node 436, time 3001.57

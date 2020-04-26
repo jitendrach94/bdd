@@ -1,0 +1,778 @@
+5xp1.pla.fx.aig
+gate 144, wire 242, node 98, time 0
+weak gate 144, wire 242, node 98, time 0.008
+weak gate 144, wire 239, node 95, time 0.019
+weak gate 123, wire 200, node 77, time 0.026
+cspf gate 117, wire 193, node 76, time 0.031
+cspf gate 92, wire 164, node 72, time 0.081
+cspf gate 85, wire 155, node 70, time 0.112
+cspf gate 83, wire 153, node 70, time 0.132
+cspf gate 80, wire 149, node 69, time 0.15
+weak gate 80, wire 149, node 69, time 0.168
+weak gate 80, wire 148, node 68, time 0.17
+weak gate 80, wire 147, node 67, time 0.172
+cspf gate 79, wire 143, node 64, time 0.174
+cspf gate 76, wire 140, node 64, time 0.19
+weak gate 76, wire 140, node 64, time 0.205
+cspf gate 76, wire 140, node 64, time 0.206
+cspf gate 75, wire 139, node 64, time 0.221
+weak gate 75, wire 139, node 64, time 0.235
+cspf gate 75, wire 139, node 64, time 0.236
+mspf gate 75, wire 139, node 64, time 0.251
+mspf gate 74, wire 136, node 62, time 0.363
+mspf gate 71, wire 132, node 61, time 0.447
+gate 71, wire 132, node 61, time 0.53
+9sym.pla.fx.aig
+gate 281, wire 483, node 202, time 0
+weak gate 281, wire 483, node 202, time 0.009
+weak gate 281, wire 479, node 198, time 0.08
+weak gate 272, wire 462, node 190, time 0.147
+cspf gate 262, wire 448, node 186, time 0.212
+cspf gate 189, wire 362, node 173, time 0.894
+cspf gate 175, wire 346, node 171, time 1.352
+cspf gate 166, wire 335, node 169, time 1.758
+cspf gate 164, wire 332, node 168, time 2.126
+cspf gate 161, wire 328, node 167, time 2.484
+cspf gate 160, wire 326, node 166, time 2.823
+cspf gate 155, wire 317, node 162, time 3.145
+cspf gate 152, wire 312, node 160, time 3.43
+weak gate 152, wire 312, node 160, time 3.664
+cspf gate 152, wire 312, node 160, time 3.685
+cspf gate 150, wire 310, node 160, time 3.938
+weak gate 150, wire 310, node 160, time 4.157
+cspf gate 150, wire 310, node 160, time 4.173
+mspf gate 150, wire 310, node 160, time 4.388
+mspf gate 150, wire 307, node 157, time 6.282
+gate 150, wire 307, node 157, time 8.071
+Z5xp1.pla.fx.aig
+gate 229, wire 383, node 154, time 0
+weak gate 229, wire 383, node 154, time 0.007
+weak gate 223, wire 359, node 136, time 0.027
+weak gate 196, wire 316, node 120, time 0.039
+weak gate 179, wire 289, node 110, time 0.049
+cspf gate 173, wire 282, node 109, time 0.058
+cspf gate 110, wire 211, node 101, time 0.164
+cspf gate 99, wire 193, node 94, time 0.228
+cspf gate 94, wire 187, node 93, time 0.273
+cspf gate 93, wire 184, node 91, time 0.313
+weak gate 93, wire 184, node 91, time 0.355
+weak gate 93, wire 183, node 90, time 0.358
+weak gate 93, wire 182, node 89, time 0.361
+cspf gate 93, wire 182, node 89, time 0.363
+cspf gate 89, wire 178, node 89, time 0.4
+weak gate 89, wire 178, node 89, time 0.434
+cspf gate 89, wire 178, node 89, time 0.436
+mspf gate 89, wire 178, node 89, time 0.471
+mspf gate 86, wire 171, node 85, time 0.745
+gate 86, wire 171, node 85, time 1.011
+Z9sym.pla.fx.aig
+gate 211, wire 357, node 146, time 0
+weak gate 211, wire 357, node 146, time 0.008
+weak gate 198, wire 316, node 118, time 0.039
+weak gate 164, wire 272, node 108, time 0.058
+weak gate 153, wire 256, node 103, time 0.077
+weak gate 148, wire 247, node 99, time 0.094
+cspf gate 145, wire 242, node 97, time 0.11
+cspf gate 97, wire 181, node 84, time 0.196
+cspf gate 95, wire 178, node 83, time 0.265
+cspf gate 93, wire 175, node 82, time 0.333
+weak gate 93, wire 175, node 82, time 0.393
+cspf gate 93, wire 175, node 82, time 0.399
+weak gate 92, wire 174, node 82, time 0.459
+cspf gate 92, wire 174, node 82, time 0.464
+mspf gate 92, wire 174, node 82, time 0.51
+mspf gate 90, wire 168, node 78, time 0.747
+gate 90, wire 168, node 78, time 0.955
+_AtBddMan.hpp_setting.txt
+gate 0, wire 0, node 0, time 0
+alu4.pla.fx.aig
+gate 1486, wire 2538, node 1052, time 0
+weak gate 1486, wire 2538, node 1052, time 0.036
+weak gate 1354, wire 2135, node 781, time 6.351
+weak gate 941, wire 1377, node 436, time 12.285
+weak gate 686, wire 988, node 302, time 13.782
+weak gate 419, wire 603, node 184, time 14.282
+weak gate 294, wire 427, node 133, time 14.501
+weak gate 235, wire 354, node 119, time 14.63
+weak gate 214, wire 326, node 112, time 14.687
+weak gate 197, wire 301, node 104, time 14.725
+weak gate 189, wire 287, node 98, time 14.762
+weak gate 179, wire 274, node 95, time 14.776
+cspf gate 175, wire 266, node 91, time 14.79
+cspf gate 102, wire 186, node 84, time 14.918
+cspf gate 98, wire 181, node 83, time 14.978
+weak gate 98, wire 181, node 83, time 15.003
+cspf gate 98, wire 181, node 83, time 15.01
+cspf gate 96, wire 179, node 83, time 15.038
+weak gate 96, wire 179, node 83, time 15.057
+cspf gate 96, wire 179, node 83, time 15.059
+mspf gate 96, wire 179, node 83, time 15.072
+mspf gate 95, wire 177, node 82, time 15.285
+mspf gate 93, wire 172, node 79, time 15.43
+gate 93, wire 172, node 79, time 15.551
+apex2.pla.fx.aig
+gate 469, wire 758, node 289, time 0
+weak gate 469, wire 758, node 289, time 0.061
+weak gate 456, wire 694, node 238, time 3.268
+weak gate 360, wire 546, node 186, time 6.194
+weak gate 298, wire 461, node 163, time 9.424
+weak gate 272, wire 426, node 154, time 10.721
+weak gate 259, wire 401, node 142, time 11.924
+weak gate 247, wire 382, node 135, time 12.754
+weak gate 235, wire 357, node 122, time 13.498
+weak gate 223, wire 341, node 118, time 14.057
+cspf gate 217, wire 334, node 117, time 14.551
+cspf gate 122, wire 232, node 110, time 16.309
+cspf gate 108, wire 214, node 106, time 17.143
+cspf gate 108, wire 212, node 104, time 17.865
+weak gate 108, wire 212, node 104, time 18.527
+cspf gate 108, wire 212, node 104, time 18.714
+mspf gate 108, wire 212, node 104, time 19.283
+mspf gate 103, wire 198, node 95, time 19.756
+mspf gate 97, wire 192, node 95, time 20.062
+gate 97, wire 192, node 95, time 20.322
+b12.pla.fx.aig
+gate 110, wire 184, node 74, time 0
+weak gate 110, wire 184, node 74, time 0.007
+weak gate 110, wire 179, node 69, time 0.015
+cspf gate 99, wire 167, node 68, time 0.018
+cspf gate 75, wire 138, node 63, time 0.04
+cspf gate 72, wire 134, node 62, time 0.059
+cspf gate 70, wire 132, node 62, time 0.077
+cspf gate 69, wire 130, node 61, time 0.093
+weak gate 69, wire 130, node 61, time 0.108
+cspf gate 69, wire 130, node 61, time 0.11
+mspf gate 69, wire 130, node 61, time 0.126
+mspf gate 66, wire 123, node 57, time 0.194
+mspf gate 64, wire 121, node 57, time 0.25
+gate 64, wire 121, node 57, time 0.299
+bw.pla.fx.aig
+gate 207, wire 349, node 142, time 0
+weak gate 207, wire 349, node 142, time 0.006
+weak gate 206, wire 342, node 136, time 0.02
+weak gate 194, wire 313, node 119, time 0.031
+cspf gate 177, wire 293, node 116, time 0.041
+cspf gate 139, wire 251, node 112, time 0.248
+cspf gate 133, wire 243, node 110, time 0.396
+cspf gate 128, wire 237, node 109, time 0.527
+cspf gate 125, wire 234, node 109, time 0.649
+weak gate 125, wire 234, node 109, time 0.764
+weak gate 125, wire 232, node 107, time 0.768
+weak gate 125, wire 230, node 105, time 0.772
+cspf gate 124, wire 229, node 105, time 0.776
+cspf gate 122, wire 227, node 105, time 0.891
+cspf gate 121, wire 226, node 105, time 0.995
+weak gate 121, wire 226, node 105, time 1.097
+cspf gate 121, wire 226, node 105, time 1.102
+mspf gate 121, wire 226, node 105, time 1.235
+gate 121, wire 226, node 105, time 3.075
+clip.pla.fx.aig
+gate 201, wire 338, node 137, time 0
+weak gate 201, wire 338, node 137, time 0.008
+weak gate 199, wire 317, node 118, time 0.029
+weak gate 160, wire 261, node 101, time 0.04
+weak gate 155, wire 254, node 99, time 0.051
+cspf gate 152, wire 251, node 99, time 0.061
+cspf gate 104, wire 197, node 93, time 0.125
+cspf gate 99, wire 189, node 90, time 0.17
+cspf gate 98, wire 188, node 90, time 0.208
+weak gate 98, wire 188, node 90, time 0.247
+cspf gate 98, wire 188, node 90, time 0.252
+cspf gate 88, wire 171, node 83, time 0.295
+cspf gate 83, wire 163, node 80, time 0.323
+cspf gate 80, wire 160, node 80, time 0.349
+weak gate 80, wire 160, node 80, time 0.371
+weak gate 80, wire 158, node 78, time 0.373
+cspf gate 78, wire 155, node 77, time 0.375
+cspf gate 76, wire 153, node 77, time 0.395
+cspf gate 76, wire 152, node 76, time 0.415
+cspf gate 72, wire 144, node 72, time 0.43
+weak gate 72, wire 144, node 72, time 0.444
+weak gate 72, wire 142, node 70, time 0.446
+weak gate 70, wire 136, node 66, time 0.447
+cspf gate 69, wire 134, node 65, time 0.449
+cspf gate 67, wire 132, node 65, time 0.46
+weak gate 67, wire 132, node 65, time 0.47
+cspf gate 67, wire 132, node 65, time 0.472
+mspf gate 67, wire 132, node 65, time 0.481
+mspf gate 63, wire 123, node 60, time 0.535
+mspf gate 61, wire 120, node 59, time 0.581
+gate 61, wire 120, node 59, time 0.623
+con1.pla.fx.aig
+gate 28, wire 45, node 17, time 0
+weak gate 28, wire 45, node 17, time 0.002
+weak gate 28, wire 44, node 16, time 0.004
+cspf gate 25, wire 41, node 16, time 0.004
+cspf gate 21, wire 37, node 16, time 0.005
+weak gate 21, wire 37, node 16, time 0.006
+cspf gate 21, wire 37, node 16, time 0.006
+mspf gate 21, wire 37, node 16, time 0.006
+mspf gate 20, wire 35, node 15, time 0.008
+gate 20, wire 35, node 15, time 0.008
+cordic.pla.fx.aig
+gate 113, wire 178, node 65, time 0
+weak gate 113, wire 178, node 65, time 0.002
+weak gate 110, wire 171, node 61, time 0.014
+weak gate 100, wire 154, node 54, time 0.019
+cspf gate 93, wire 146, node 53, time 0.022
+cspf gate 69, wire 122, node 53, time 0.036
+weak gate 69, wire 122, node 53, time 0.046
+cspf gate 69, wire 122, node 53, time 0.048
+mspf gate 69, wire 122, node 53, time 0.057
+mspf gate 69, wire 121, node 52, time 0.078
+gate 69, wire 121, node 52, time 0.096
+cps.mod.pla.fx.aig
+gate 1358, wire 2236, node 878, time 0
+weak gate 1358, wire 2236, node 878, time 0.019
+weak gate 1350, wire 2155, node 805, time 1.442
+weak gate 1190, wire 1905, node 715, time 2.878
+weak gate 1118, wire 1806, node 688, time 4.171
+weak gate 1096, wire 1772, node 676, time 5.568
+weak gate 1071, wire 1734, node 663, time 6.926
+weak gate 1061, wire 1714, node 653, time 8.353
+weak gate 1051, wire 1696, node 645, time 9.74
+cspf gate 1041, wire 1682, node 641, time 11.066
+cspf gate 802, wire 1420, node 618, time 93.462
+cspf gate 730, wire 1343, node 613, time 137.995
+cspf gate 694, wire 1298, node 604, time 179.536
+cspf gate 656, wire 1253, node 597, time 210.624
+cspf gate 640, wire 1229, node 589, time 238.219
+cspf gate 636, wire 1225, node 589, time 264.76
+cspf gate 634, wire 1222, node 588, time 291.13
+cspf gate 633, wire 1220, node 587, time 316.533
+cspf gate 630, wire 1215, node 585, time 341.673
+cspf gate 628, wire 1212, node 584, time 365.929
+cspf gate 627, wire 1211, node 584, time 389.588
+cspf gate 626, wire 1210, node 584, time 412.712
+cspf gate 625, wire 1208, node 583, time 436.138
+weak gate 625, wire 1208, node 583, time 459.624
+weak gate 625, wire 1199, node 574, time 460.059
+weak gate 619, wire 1188, node 569, time 460.446
+weak gate 615, wire 1182, node 567, time 460.735
+cspf gate 615, wire 1182, node 567, time 460.979
+cspf gate 594, wire 1152, node 558, time 489.712
+cspf gate 584, wire 1140, node 556, time 511.649
+cspf gate 581, wire 1134, node 553, time 533.611
+cspf gate 575, wire 1126, node 551, time 559.664
+cspf gate 571, wire 1122, node 551, time 580.788
+cspf gate 568, wire 1118, node 550, time 600.873
+cspf gate 567, wire 1116, node 549, time 621.027
+weak gate 567, wire 1116, node 549, time 640.877
+weak gate 567, wire 1114, node 547, time 641.148
+weak gate 566, wire 1112, node 546, time 641.387
+weak gate 566, wire 1111, node 545, time 641.579
+cspf gate 565, wire 1110, node 545, time 641.752
+cspf gate 559, wire 1103, node 544, time 662.63
+cspf gate 555, wire 1097, node 542, time 680.951
+cspf gate 550, wire 1091, node 541, time 698.625
+cspf gate 549, wire 1089, node 540, time 715.719
+weak gate 549, wire 1089, node 540, time 732.564
+weak gate 549, wire 1087, node 538, time 732.761
+weak gate 549, wire 1086, node 537, time 732.93
+cspf gate 549, wire 1086, node 537, time 733.076
+weak gate 549, wire 1086, node 537, time 751.784
+cspf gate 549, wire 1086, node 537, time 751.961
+mspf gate 549, wire 1086, node 537, time 770.15
+mspf gate 547, wire 1078, node 531, time 1845.7
+mspf gate 547, wire 1076, node 529, time 2914.64
+duke2.pla.fx.aig
+gate 455, wire 738, node 283, time 0
+weak gate 455, wire 738, node 283, time 0.016
+weak gate 454, wire 729, node 275, time 0.156
+weak gate 437, wire 702, node 265, time 0.281
+weak gate 423, wire 684, node 261, time 0.405
+weak gate 419, wire 679, node 260, time 0.528
+cspf gate 416, wire 675, node 259, time 0.635
+cspf gate 306, wire 561, node 255, time 3.982
+cspf gate 282, wire 531, node 249, time 5.775
+cspf gate 274, wire 521, node 247, time 7.336
+cspf gate 269, wire 516, node 247, time 8.745
+weak gate 269, wire 516, node 247, time 10.082
+weak gate 269, wire 514, node 245, time 10.134
+weak gate 267, wire 511, node 244, time 10.18
+cspf gate 267, wire 511, node 244, time 10.222
+cspf gate 262, wire 505, node 243, time 11.725
+cspf gate 258, wire 501, node 243, time 13.097
+cspf gate 257, wire 500, node 243, time 14.372
+cspf gate 256, wire 499, node 243, time 15.601
+cspf gate 255, wire 498, node 243, time 16.865
+cspf gate 255, wire 497, node 242, time 18.089
+cspf gate 253, wire 495, node 242, time 19.313
+weak gate 253, wire 495, node 242, time 20.505
+weak gate 253, wire 494, node 241, time 20.544
+cspf gate 253, wire 494, node 241, time 20.57
+weak gate 253, wire 494, node 241, time 21.827
+cspf gate 253, wire 494, node 241, time 21.855
+weak gate 252, wire 492, node 240, time 23.07
+cspf gate 252, wire 492, node 240, time 23.098
+cspf gate 250, wire 490, node 240, time 24.389
+cspf gate 250, wire 489, node 239, time 25.577
+cspf gate 247, wire 485, node 238, time 26.713
+weak gate 247, wire 485, node 238, time 27.853
+weak gate 247, wire 483, node 236, time 27.887
+cspf gate 247, wire 483, node 236, time 27.912
+weak gate 246, wire 482, node 236, time 29.118
+cspf gate 246, wire 482, node 236, time 29.143
+mspf gate 246, wire 482, node 236, time 30.326
+mspf gate 245, wire 480, node 235, time 59.004
+mspf gate 245, wire 479, node 234, time 87.283
+gate 245, wire 479, node 234, time 115.427
+e64.pla.fx.aig
+gate 317, wire 444, node 127, time 0
+weak gate 317, wire 444, node 127, time 0.014
+cspf gate 317, wire 444, node 127, time 0.047
+cspf gate 252, wire 379, node 127, time 1.906
+weak gate 252, wire 379, node 127, time 4.533
+cspf gate 252, wire 379, node 127, time 4.625
+mspf gate 252, wire 379, node 127, time 7.414
+gate 252, wire 379, node 127, time 20.466
+ex4.mod.pla.fx.aig
+gate 660, wire 1067, node 407, time 0
+weak gate 660, wire 1067, node 407, time 0.025
+weak gate 656, wire 1037, node 381, time 0.964
+weak gate 596, wire 939, node 343, time 2.068
+weak gate 588, wire 929, node 341, time 3.218
+cspf gate 581, wire 920, node 339, time 4.304
+cspf gate 394, wire 727, node 333, time 6.037
+cspf gate 386, wire 719, node 333, time 7.318
+weak gate 386, wire 719, node 333, time 8.388
+cspf gate 386, wire 719, node 333, time 8.782
+cspf gate 383, wire 716, node 333, time 9.84
+weak gate 383, wire 716, node 333, time 10.904
+cspf gate 383, wire 716, node 333, time 11.224
+mspf gate 383, wire 716, node 333, time 11.949
+mspf gate 379, wire 702, node 323, time 18.124
+mspf gate 373, wire 689, node 316, time 23.946
+mspf gate 369, wire 685, node 316, time 29.188
+gate 369, wire 685, node 316, time 34.361
+ex5.pla.fx.aig
+gate 1162, wire 1931, node 769, time 0
+weak gate 1162, wire 1931, node 769, time 0.012
+weak gate 1109, wire 1647, node 538, time 0.588
+weak gate 778, wire 1167, node 389, time 0.943
+weak gate 667, wire 1032, node 365, time 1.225
+weak gate 636, wire 993, node 357, time 1.475
+weak gate 621, wire 972, node 351, time 1.712
+weak gate 610, wire 956, node 346, time 1.946
+weak gate 604, wire 945, node 341, time 2.176
+weak gate 602, wire 941, node 339, time 2.399
+cspf gate 598, wire 935, node 337, time 2.608
+cspf gate 455, wire 783, node 328, time 12.66
+cspf gate 417, wire 731, node 314, time 18.989
+cspf gate 392, wire 697, node 305, time 23.858
+cspf gate 370, wire 667, node 297, time 27.929
+cspf gate 355, wire 649, node 294, time 31.336
+cspf gate 349, wire 639, node 290, time 34.763
+cspf gate 343, wire 628, node 285, time 37.82
+cspf gate 339, wire 622, node 283, time 40.847
+cspf gate 331, wire 613, node 282, time 43.719
+cspf gate 328, wire 608, node 280, time 46.432
+cspf gate 319, wire 594, node 275, time 48.985
+cspf gate 310, wire 581, node 271, time 51.406
+cspf gate 305, wire 571, node 266, time 53.569
+cspf gate 302, wire 565, node 263, time 55.689
+cspf gate 297, wire 556, node 259, time 57.768
+cspf gate 292, wire 545, node 253, time 59.672
+cspf gate 287, wire 535, node 248, time 61.433
+cspf gate 284, wire 532, node 248, time 63.243
+cspf gate 282, wire 530, node 248, time 64.849
+cspf gate 281, wire 529, node 248, time 66.486
+cspf gate 280, wire 528, node 248, time 68.097
+weak gate 280, wire 528, node 248, time 69.683
+weak gate 280, wire 523, node 243, time 69.731
+weak gate 278, wire 518, node 240, time 69.771
+weak gate 274, wire 513, node 239, time 69.809
+cspf gate 272, wire 511, node 239, time 69.839
+cspf gate 262, wire 499, node 237, time 71.428
+cspf gate 258, wire 493, node 235, time 72.798
+cspf gate 256, wire 490, node 234, time 74.167
+cspf gate 254, wire 488, node 234, time 75.468
+cspf gate 254, wire 487, node 233, time 76.737
+cspf gate 253, wire 485, node 232, time 77.997
+weak gate 253, wire 485, node 232, time 79.235
+weak gate 253, wire 483, node 230, time 79.269
+weak gate 253, wire 475, node 222, time 79.302
+weak gate 251, wire 471, node 220, time 79.329
+cspf gate 250, wire 470, node 220, time 79.353
+cspf gate 249, wire 469, node 220, time 80.615
+weak gate 249, wire 469, node 220, time 81.781
+cspf gate 249, wire 469, node 220, time 81.806
+cspf gate 248, wire 468, node 220, time 83.019
+cspf gate 244, wire 463, node 219, time 84.15
+weak gate 244, wire 463, node 219, time 85.274
+weak gate 244, wire 462, node 218, time 85.298
+cspf gate 244, wire 462, node 218, time 85.32
+weak gate 244, wire 462, node 218, time 86.47
+cspf gate 244, wire 462, node 218, time 86.492
+mspf gate 244, wire 462, node 218, time 87.637
+gate 244, wire 462, node 218, time 116.949
+inc.pla.fx.aig
+gate 173, wire 286, node 113, time 0
+weak gate 173, wire 286, node 113, time 0.007
+weak gate 173, wire 283, node 110, time 0.021
+cspf gate 162, wire 267, node 105, time 0.03
+cspf gate 120, wire 219, node 99, time 0.185
+cspf gate 106, wire 204, node 98, time 0.283
+cspf gate 94, wire 189, node 95, time 0.348
+cspf gate 92, wire 186, node 94, time 0.404
+cspf gate 89, wire 182, node 93, time 0.456
+cspf gate 88, wire 180, node 92, time 0.503
+weak gate 88, wire 180, node 92, time 0.549
+weak gate 88, wire 177, node 89, time 0.553
+cspf gate 88, wire 177, node 89, time 0.555
+cspf gate 86, wire 175, node 89, time 0.606
+cspf gate 85, wire 174, node 89, time 0.649
+weak gate 85, wire 174, node 89, time 0.689
+cspf gate 85, wire 174, node 89, time 0.692
+mspf gate 85, wire 174, node 89, time 0.738
+mspf gate 85, wire 173, node 88, time 1.21
+gate 85, wire 173, node 88, time 1.685
+log.txt
+gate 0, wire 0, node 0, time 0
+misex1.pla.fx.aig
+gate 82, wire 132, node 50, time 0
+weak gate 82, wire 132, node 50, time 0.007
+weak gate 81, wire 126, node 45, time 0.01
+cspf gate 68, wire 106, node 38, time 0.012
+cspf gate 50, wire 84, node 34, time 0.021
+weak gate 50, wire 84, node 34, time 0.028
+weak gate 50, wire 83, node 33, time 0.028
+cspf gate 50, wire 83, node 33, time 0.029
+cspf gate 46, wire 79, node 33, time 0.035
+weak gate 46, wire 79, node 33, time 0.04
+cspf gate 46, wire 79, node 33, time 0.04
+mspf gate 46, wire 79, node 33, time 0.046
+gate 46, wire 79, node 33, time 0.069
+misex2.pla.fx.aig
+gate 148, wire 222, node 74, time 0
+weak gate 148, wire 222, node 74, time 0.007
+cspf gate 148, wire 222, node 74, time 0.017
+cspf gate 102, wire 174, node 72, time 0.074
+weak gate 102, wire 174, node 72, time 0.129
+weak gate 102, wire 173, node 71, time 0.133
+cspf gate 102, wire 173, node 71, time 0.136
+cspf gate 98, wire 169, node 71, time 0.192
+weak gate 98, wire 169, node 71, time 0.241
+cspf gate 98, wire 169, node 71, time 0.245
+cspf gate 97, wire 168, node 71, time 0.289
+weak gate 97, wire 168, node 71, time 0.335
+cspf gate 97, wire 168, node 71, time 0.337
+mspf gate 97, wire 168, node 71, time 0.38
+gate 97, wire 168, node 71, time 0.713
+misex3.pla.fx.aig
+gate 1200, wire 2041, node 841, time 0
+weak gate 1200, wire 2041, node 841, time 0.033
+weak gate 1106, wire 1732, node 626, time 1.514
+weak gate 895, wire 1408, node 513, time 2.468
+weak gate 786, wire 1259, node 473, time 3.255
+weak gate 737, wire 1203, node 466, time 3.961
+weak gate 720, wire 1172, node 452, time 4.659
+weak gate 699, wire 1144, node 445, time 5.321
+cspf gate 691, wire 1134, node 443, time 5.973
+cspf gate 446, wire 844, node 398, time 20.948
+cspf gate 399, wire 775, node 376, time 28.992
+cspf gate 381, wire 752, node 371, time 35.63
+cspf gate 368, wire 730, node 362, time 43.198
+cspf gate 359, wire 717, node 358, time 48.467
+cspf gate 358, wire 715, node 357, time 53.399
+cspf gate 356, wire 713, node 357, time 58.263
+cspf gate 353, wire 707, node 354, time 63.249
+cspf gate 346, wire 696, node 350, time 68.047
+cspf gate 343, wire 693, node 350, time 72.704
+cspf gate 334, wire 679, node 345, time 77.113
+cspf gate 327, wire 672, node 345, time 81.254
+cspf gate 326, wire 671, node 345, time 85.187
+weak gate 326, wire 671, node 345, time 88.843
+weak gate 326, wire 664, node 338, time 89.036
+weak gate 324, wire 660, node 336, time 89.179
+cspf gate 321, wire 654, node 333, time 89.283
+cspf gate 313, wire 645, node 332, time 93.2
+cspf gate 308, wire 639, node 331, time 96.616
+weak gate 308, wire 639, node 331, time 99.713
+weak gate 308, wire 637, node 329, time 99.818
+cspf gate 308, wire 637, node 329, time 99.9
+weak gate 308, wire 637, node 329, time 106.402
+cspf gate 308, wire 637, node 329, time 106.476
+mspf gate 308, wire 637, node 329, time 109.622
+mspf gate 306, wire 631, node 325, time 180.793
+mspf gate 304, wire 625, node 321, time 250.755
+mspf gate 301, wire 618, node 317, time 316.511
+gate 301, wire 618, node 317, time 380.191
+misex3c.pla.fx.aig
+gate 699, wire 1164, node 465, time 0
+weak gate 699, wire 1164, node 465, time 0.019
+weak gate 679, wire 1096, node 417, time 0.475
+weak gate 611, wire 983, node 372, time 0.83
+weak gate 568, wire 919, node 351, time 1.144
+cspf gate 554, wire 899, node 345, time 1.437
+cspf gate 362, wire 697, node 335, time 7.345
+cspf gate 320, wire 648, node 328, time 10.885
+cspf gate 307, wire 633, node 326, time 14
+cspf gate 305, wire 628, node 323, time 16.804
+cspf gate 302, wire 625, node 323, time 19.666
+cspf gate 301, wire 623, node 322, time 22.397
+weak gate 301, wire 623, node 322, time 24.964
+weak gate 301, wire 622, node 321, time 25.132
+cspf gate 300, wire 618, node 318, time 25.282
+cspf gate 294, wire 612, node 318, time 28.192
+cspf gate 292, wire 610, node 318, time 32.367
+cspf gate 288, wire 606, node 318, time 34.796
+weak gate 288, wire 606, node 318, time 37.061
+weak gate 288, wire 605, node 317, time 37.192
+weak gate 288, wire 604, node 316, time 37.298
+weak gate 287, wire 602, node 315, time 37.379
+cspf gate 287, wire 602, node 315, time 37.464
+cspf gate 285, wire 600, node 315, time 40.044
+weak gate 285, wire 600, node 315, time 42.336
+cspf gate 285, wire 600, node 315, time 42.426
+cspf gate 283, wire 598, node 315, time 44.898
+weak gate 283, wire 598, node 315, time 47.226
+cspf gate 283, wire 598, node 315, time 47.311
+mspf gate 283, wire 598, node 315, time 49.588
+mspf gate 279, wire 584, node 305, time 86.93
+mspf gate 279, wire 582, node 303, time 122.379
+mspf gate 279, wire 581, node 302, time 157
+gate 279, wire 581, node 302, time 191.867
+pdc.pla.fx.aig
+gate 1938, wire 3257, node 1319, time 0
+weak gate 1938, wire 3257, node 1319, time 0.035
+weak gate 1478, wire 2083, node 605, time 1.679
+weak gate 745, wire 1084, node 339, time 2.079
+weak gate 554, wire 854, node 300, time 2.324
+weak gate 492, wire 782, node 290, time 2.531
+weak gate 479, wire 766, node 287, time 2.722
+cspf gate 475, wire 761, node 286, time 2.872
+cspf gate 350, wire 626, node 276, time 7.418
+cspf gate 323, wire 591, node 268, time 10.692
+cspf gate 299, wire 561, node 262, time 13.06
+cspf gate 290, wire 550, node 260, time 14.985
+weak gate 290, wire 550, node 260, time 16.836
+weak gate 290, wire 547, node 257, time 16.929
+weak gate 289, wire 545, node 256, time 16.995
+weak gate 286, wire 540, node 254, time 17.04
+cspf gate 284, wire 538, node 254, time 17.087
+cspf gate 278, wire 532, node 254, time 19.001
+cspf gate 276, wire 530, node 254, time 20.62
+weak gate 276, wire 530, node 254, time 22.1
+cspf gate 276, wire 530, node 254, time 22.151
+mspf gate 276, wire 530, node 254, time 23.776
+mspf gate 275, wire 526, node 251, time 71.558
+gate 275, wire 526, node 251, time 122.289
+rd53.pla.fx.aig
+gate 54, wire 90, node 36, time 0
+weak gate 54, wire 90, node 36, time 0.006
+weak gate 54, wire 89, node 35, time 0.008
+weak gate 46, wire 76, node 30, time 0.009
+cspf gate 36, wire 58, node 22, time 0.01
+cspf gate 29, wire 51, node 22, time 0.011
+weak gate 28, wire 47, node 19, time 0.011
+cspf gate 28, wire 47, node 19, time 0.011
+mspf gate 28, wire 47, node 19, time 0.012
+gate 28, wire 47, node 19, time 0.013
+rd73.pla.fx.aig
+gate 137, wire 231, node 94, time 0
+weak gate 137, wire 231, node 94, time 0.004
+weak gate 137, wire 221, node 84, time 0.014
+weak gate 123, wire 191, node 68, time 0.02
+weak gate 100, wire 162, node 62, time 0.024
+cspf gate 88, wire 144, node 56, time 0.027
+cspf gate 68, wire 121, node 53, time 0.044
+cspf gate 67, wire 118, node 51, time 0.057
+cspf gate 62, wire 112, node 50, time 0.069
+cspf gate 59, wire 107, node 48, time 0.078
+cspf gate 56, wire 103, node 47, time 0.085
+weak gate 56, wire 103, node 47, time 0.092
+cspf gate 56, wire 103, node 47, time 0.093
+mspf gate 56, wire 103, node 47, time 0.101
+mspf gate 53, wire 91, node 38, time 0.129
+mspf gate 52, wire 87, node 35, time 0.144
+mspf gate 51, wire 85, node 34, time 0.156
+gate 51, wire 85, node 34, time 0.167
+rd84.pla.fx.aig
+gate 223, wire 382, node 159, time 0
+weak gate 223, wire 382, node 159, time 0.008
+weak gate 211, wire 337, node 126, time 0.034
+weak gate 170, wire 270, node 100, time 0.048
+weak gate 154, wire 249, node 95, time 0.059
+weak gate 146, wire 237, node 91, time 0.067
+cspf gate 139, wire 229, node 90, time 0.073
+cspf gate 96, wire 180, node 84, time 0.128
+cspf gate 86, wire 163, node 77, time 0.161
+weak gate 86, wire 163, node 77, time 0.189
+cspf gate 86, wire 163, node 77, time 0.192
+cspf gate 82, wire 156, node 74, time 0.216
+weak gate 82, wire 156, node 74, time 0.237
+cspf gate 82, wire 156, node 74, time 0.239
+mspf gate 82, wire 156, node 74, time 0.259
+mspf gate 81, wire 152, node 71, time 0.397
+mspf gate 81, wire 149, node 68, time 0.532
+mspf gate 80, wire 148, node 68, time 0.648
+gate 80, wire 148, node 68, time 0.762
+sao2.pla.fx.aig
+gate 192, wire 313, node 121, time 0
+weak gate 192, wire 313, node 121, time 0.008
+weak gate 192, wire 311, node 119, time 0.03
+cspf gate 182, wire 296, node 114, time 0.048
+cspf gate 122, wire 224, node 102, time 0.219
+cspf gate 115, wire 217, node 102, time 0.345
+weak gate 115, wire 217, node 102, time 0.465
+cspf gate 115, wire 217, node 102, time 0.475
+cspf gate 108, wire 209, node 101, time 0.579
+cspf gate 106, wire 206, node 100, time 0.672
+weak gate 106, wire 206, node 100, time 0.769
+weak gate 106, wire 205, node 99, time 0.777
+cspf gate 106, wire 205, node 99, time 0.784
+cspf gate 104, wire 203, node 99, time 0.876
+cspf gate 104, wire 201, node 97, time 0.961
+cspf gate 103, wire 199, node 96, time 1.038
+weak gate 103, wire 199, node 96, time 1.11
+weak gate 103, wire 198, node 95, time 1.116
+cspf gate 103, wire 198, node 95, time 1.122
+cspf gate 100, wire 195, node 95, time 1.199
+cspf gate 96, wire 191, node 95, time 1.275
+weak gate 96, wire 191, node 95, time 1.341
+cspf gate 96, wire 191, node 95, time 1.347
+mspf gate 96, wire 191, node 95, time 1.427
+gate 96, wire 191, node 95, time 1.921
+spla.pla.fx.aig
+gate 968, wire 1639, node 671, time 0
+weak gate 968, wire 1639, node 671, time 0.019
+weak gate 826, wire 1253, node 427, time 0.456
+weak gate 598, wire 911, node 313, time 0.683
+weak gate 523, wire 817, node 294, time 0.867
+weak gate 475, wire 752, node 277, time 1.017
+weak gate 452, wire 721, node 269, time 1.171
+weak gate 448, wire 712, node 264, time 1.298
+weak gate 438, wire 695, node 257, time 1.406
+cspf gate 432, wire 689, node 257, time 1.515
+cspf gate 310, wire 555, node 245, time 4.94
+cspf gate 290, wire 527, node 237, time 6.751
+cspf gate 287, wire 523, node 236, time 8.415
+weak gate 287, wire 523, node 236, time 10.028
+weak gate 287, wire 522, node 235, time 10.088
+cspf gate 286, wire 519, node 233, time 10.127
+cspf gate 282, wire 513, node 231, time 11.727
+cspf gate 281, wire 512, node 231, time 13.219
+cspf gate 280, wire 511, node 231, time 14.64
+weak gate 280, wire 511, node 231, time 16.015
+cspf gate 280, wire 511, node 231, time 16.055
+cspf gate 275, wire 503, node 228, time 17.448
+cspf gate 274, wire 502, node 228, time 18.733
+cspf gate 272, wire 499, node 227, time 19.939
+cspf gate 270, wire 497, node 227, time 21.147
+weak gate 270, wire 497, node 227, time 22.306
+cspf gate 270, wire 497, node 227, time 22.343
+mspf gate 270, wire 497, node 227, time 23.597
+mspf gate 268, wire 493, node 225, time 57.033
+gate 268, wire 493, node 225, time 89.794
+squar5.pla.fx.aig
+gate 84, wire 140, node 56, time 0
+weak gate 84, wire 140, node 56, time 0.007
+weak gate 84, wire 137, node 53, time 0.01
+cspf gate 79, wire 131, node 52, time 0.012
+cspf gate 59, wire 110, node 51, time 0.024
+cspf gate 53, wire 104, node 51, time 0.033
+cspf gate 51, wire 99, node 48, time 0.04
+weak gate 51, wire 99, node 48, time 0.046
+cspf gate 51, wire 99, node 48, time 0.047
+mspf gate 51, wire 99, node 48, time 0.054
+mspf gate 50, wire 97, node 47, time 0.087
+gate 50, wire 97, node 47, time 0.115
+t481.pla.fx.aig
+gate 45, wire 70, node 25, time 0
+weak gate 45, wire 70, node 25, time 0.007
+cspf gate 45, wire 70, node 25, time 0.009
+cspf gate 41, wire 66, node 25, time 0.011
+weak gate 41, wire 66, node 25, time 0.013
+cspf gate 41, wire 66, node 25, time 0.013
+mspf gate 41, wire 66, node 25, time 0.015
+gate 41, wire 66, node 25, time 0.018
+table3.pla.fx.aig
+gate 1108, wire 1804, node 696, time 0
+weak gate 1108, wire 1804, node 696, time 0.017
+weak gate 1106, wire 1781, node 675, time 0.954
+weak gate 1050, wire 1685, node 635, time 1.896
+weak gate 1009, wire 1634, node 625, time 2.823
+weak gate 995, wire 1614, node 619, time 3.706
+weak gate 988, wire 1605, node 617, time 4.615
+cspf gate 985, wire 1600, node 615, time 5.529
+cspf gate 652, wire 1254, node 602, time 66.119
+cspf gate 577, wire 1170, node 593, time 96.401
+cspf gate 541, wire 1125, node 584, time 121.109
+cspf gate 526, wire 1106, node 580, time 143.097
+cspf gate 523, wire 1103, node 580, time 164.987
+weak gate 523, wire 1103, node 580, time 185.848
+weak gate 523, wire 1097, node 574, time 186.154
+cspf gate 521, wire 1094, node 573, time 186.398
+cspf gate 511, wire 1083, node 572, time 208.709
+cspf gate 508, wire 1078, node 570, time 230.37
+cspf gate 505, wire 1074, node 569, time 250.395
+cspf gate 503, wire 1072, node 569, time 270.274
+cspf gate 502, wire 1071, node 569, time 289.459
+cspf gate 501, wire 1069, node 568, time 308.801
+cspf gate 500, wire 1067, node 567, time 327.643
+weak gate 500, wire 1067, node 567, time 346.072
+weak gate 500, wire 1066, node 566, time 346.309
+cspf gate 500, wire 1066, node 566, time 346.491
+weak gate 499, wire 1063, node 564, time 366.337
+cspf gate 499, wire 1063, node 564, time 366.52
+mspf gate 499, wire 1063, node 564, time 386.078
+mspf gate 497, wire 1056, node 559, time 1324.33
+mspf gate 494, wire 1051, node 557, time 2308.72
+mspf gate 492, wire 1049, node 557, time 3279.7
+table5.pla.fx.aig
+gate 895, wire 1453, node 558, time 0
+weak gate 895, wire 1453, node 558, time 0.017
+weak gate 891, wire 1425, node 534, time 0.667
+weak gate 846, wire 1356, node 510, time 1.337
+weak gate 819, wire 1325, node 506, time 1.977
+cspf gate 814, wire 1318, node 504, time 2.624
+cspf gate 533, wire 1021, node 488, time 33.907
+cspf gate 480, wire 957, node 477, time 50.73
+cspf gate 463, wire 937, node 474, time 64.682
+cspf gate 453, wire 925, node 472, time 79.229
+cspf gate 452, wire 924, node 472, time 91.849
+weak gate 452, wire 924, node 472, time 103.81
+weak gate 452, wire 920, node 468, time 104.129
+weak gate 452, wire 919, node 467, time 104.364
+cspf gate 452, wire 919, node 467, time 104.551
+cspf gate 450, wire 917, node 467, time 118.127
+cspf gate 444, wire 911, node 467, time 130.98
+cspf gate 443, wire 910, node 467, time 144.424
+weak gate 443, wire 910, node 467, time 156.168
+cspf gate 443, wire 910, node 467, time 156.388
+cspf gate 437, wire 903, node 466, time 168.841
+cspf gate 437, wire 902, node 465, time 184.012
+weak gate 437, wire 902, node 465, time 195.729
+weak gate 437, wire 901, node 464, time 195.932
+cspf gate 437, wire 901, node 464, time 196.11
+cspf gate 436, wire 900, node 464, time 209.265
+cspf gate 432, wire 895, node 463, time 220.177
+cspf gate 431, wire 894, node 463, time 231.245
+cspf gate 430, wire 893, node 463, time 241.532
+weak gate 430, wire 893, node 463, time 251.851
+weak gate 430, wire 892, node 462, time 252.031
+weak gate 430, wire 891, node 461, time 252.203
+cspf gate 430, wire 891, node 461, time 252.341
+weak gate 430, wire 891, node 461, time 263.98
+cspf gate 430, wire 891, node 461, time 264.153
+weak gate 429, wire 890, node 461, time 276.71
+cspf gate 429, wire 890, node 461, time 276.889
+cspf gate 426, wire 887, node 461, time 288.418
+cspf gate 425, wire 886, node 461, time 299.256
+weak gate 425, wire 886, node 461, time 309.393
+cspf gate 425, wire 886, node 461, time 309.527
+mspf gate 425, wire 886, node 461, time 320.766
+mspf gate 424, wire 883, node 459, time 717.534
+gate 424, wire 883, node 459, time 1136.58
+vg2.pla.fx.aig
+gate 128, wire 201, node 73, time 0
+mspf gate 128, wire 201, node 73, time 0.012
+mspf gate 121, wire 192, node 71, time 0.336
+mspf gate 85, wire 153, node 68, time 0.449
+mspf gate 83, wire 151, node 68, time 0.53
+gate 83, wire 151, node 68, time 0.607
+xor5.pla.fx.aig
+gate 20, wire 32, node 12, time 0
+mspf gate 20, wire 32, node 12, time 0.006
+gate 20, wire 32, node 12, time 0.007

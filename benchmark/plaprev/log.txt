@@ -1,0 +1,103 @@
+gate 86, wire 144, node 58, time 0
+mspf gate 86, wire 144, node 58, time 0.008
+mspf gate 86, wire 143, node 57, time 0.156
+mspf gate 81, wire 138, node 57, time 0.253
+mspf gate 80, wire 137, node 57, time 0.344
+gate 80, wire 137, node 57, time 0.435
+gate 187, wire 311, node 124, time 0
+mspf gate 187, wire 311, node 124, time 0.014
+mspf gate 180, wire 299, node 119, time 2.591
+mspf gate 136, wire 253, node 117, time 3.719
+mspf gate 128, wire 243, node 115, time 4.471
+mspf gate 126, wire 241, node 115, time 5.125
+gate 126, wire 241, node 115, time 5.752
+gate 129, wire 217, node 88, time 0
+mspf gate 129, wire 217, node 88, time 0.007
+mspf gate 127, wire 213, node 86, time 0.855
+mspf gate 109, wire 192, node 83, time 1.352
+mspf gate 104, wire 185, node 81, time 1.743
+gate 104, wire 185, node 81, time 2.125
+gate 123, wire 202, node 79, time 0
+mspf gate 123, wire 202, node 79, time 0.009
+mspf gate 116, wire 190, node 74, time 0.569
+mspf gate 90, wire 163, node 73, time 0.83
+mspf gate 90, wire 162, node 72, time 1.069
+mspf gate 88, wire 160, node 72, time 1.274
+gate 88, wire 160, node 72, time 1.451
+gate 125, wire 208, node 83, time 0
+mspf gate 125, wire 208, node 83, time 0.022
+mspf gate 124, wire 206, node 82, time 0.345
+mspf gate 106, wire 188, node 82, time 0.549
+mspf gate 104, wire 186, node 82, time 0.732
+gate 104, wire 186, node 82, time 0.911
+gate 154, wire 245, node 91, time 0
+mspf gate 154, wire 245, node 91, time 0.061
+mspf gate 152, wire 242, node 90, time 0.92
+mspf gate 108, wire 198, node 90, time 1.342
+mspf gate 106, wire 196, node 90, time 1.696
+gate 106, wire 196, node 90, time 2.026
+gate 92, wire 152, node 60, time 0
+mspf gate 92, wire 152, node 60, time 0.008
+mspf gate 89, wire 146, node 57, time 0.188
+mspf gate 83, wire 139, node 56, time 0.296
+mspf gate 82, wire 138, node 56, time 0.394
+gate 82, wire 138, node 56, time 0.49
+gate 347, wire 572, node 225, time 0
+mspf gate 347, wire 572, node 225, time 0.017
+mspf gate 346, wire 568, node 222, time 75.962
+mspf gate 284, wire 506, node 222, time 127.589
+mspf gate 282, wire 504, node 222, time 169.016
+gate 282, wire 504, node 222, time 210.484
+gate 557, wire 883, node 326, time 0
+mspf gate 557, wire 883, node 326, time 0.035
+mspf gate 535, wire 850, node 315, time 11.192
+mspf gate 390, wire 704, node 314, time 16.253
+mspf gate 368, wire 682, node 314, time 19.944
+gate 368, wire 682, node 314, time 23.464
+gate 327, wire 526, node 199, time 0
+mspf gate 327, wire 526, node 199, time 0.011
+mspf gate 323, wire 521, node 198, time 45.146
+mspf gate 298, wire 496, node 198, time 90.337
+mspf gate 297, wire 495, node 198, time 131.458
+gate 297, wire 495, node 198, time 171.65
+gate 130, wire 216, node 86, time 0
+mspf gate 130, wire 216, node 86, time 0.008
+gate 130, wire 216, node 86, time 1.4
+gate 446, wire 734, node 288, time 0
+mspf gate 446, wire 734, node 288, time 0.025
+mspf gate 434, wire 716, node 282, time 148.98
+mspf gate 362, wire 641, node 279, time 236.719
+mspf gate 346, wire 622, node 276, time 305.114
+gate 346, wire 622, node 276, time 371.76
+gate 497, wire 807, node 310, time 0
+mspf gate 497, wire 807, node 310, time 0.026
+mspf gate 474, wire 767, node 293, time 188.191
+mspf gate 343, wire 636, node 293, time 263.669
+mspf gate 331, wire 624, node 293, time 321.572
+gate 331, wire 624, node 293, time 377.597
+gate 95, wire 158, node 63, time 0
+mspf gate 95, wire 158, node 63, time 0.008
+gate 95, wire 158, node 63, time 0.241
+gate 150, wire 255, node 105, time 0
+mspf gate 150, wire 255, node 105, time 0.008
+mspf gate 149, wire 253, node 104, time 2.737
+mspf gate 137, wire 240, node 103, time 4.816
+mspf gate 136, wire 238, node 102, time 6.797
+gate 136, wire 238, node 102, time 8.72
+gate 254, wire 381, node 127, time 0
+mspf gate 254, wire 381, node 127, time 0.019
+gate 254, wire 381, node 127, time 13.494
+gate 137, wire 208, node 71, time 0
+mspf gate 137, wire 208, node 71, time 0.009
+gate 137, wire 208, node 71, time 0.905
+gate 45, wire 70, node 25, time 0
+mspf gate 45, wire 70, node 25, time 0.008
+gate 45, wire 70, node 25, time 0.017
+gate 111, wire 179, node 68, time 0
+mspf gate 111, wire 179, node 68, time 0.016
+mspf gate 102, wire 170, node 68, time 0.239
+mspf gate 81, wire 149, node 68, time 0.313
+gate 81, wire 149, node 68, time 0.373
+gate 20, wire 32, node 12, time 0
+mspf gate 20, wire 32, node 12, time 0.006
+gate 20, wire 32, node 12, time 0.007

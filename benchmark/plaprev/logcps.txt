@@ -1,0 +1,3 @@
+gate 808, wire 1310, node 502, time 0
+mspf gate 808, wire 1310, node 502, time 0.032
+mspf gate 802, wire 1300, node 498, time 2692.19

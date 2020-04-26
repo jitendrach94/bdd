@@ -1,0 +1,2 @@
+gate 855, wire 1387, node 532, time 0
+mspf gate 855, wire 1387, node 532, time 0.025
