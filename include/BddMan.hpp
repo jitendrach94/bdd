@@ -200,4 +200,18 @@ namespace Bdd
 	  }
       }
   }
+
+  template <typename node>
+  bool GenCEX(node const & x, std::vector<bool> & cex)
+  {
+    if( x == Const0())
+    {
+      return false;
+    }
+    if( x == Const1())
+    {
+      return true;
+    }
+
+  }
 }
