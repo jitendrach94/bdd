@@ -43,7 +43,7 @@ namespace Bdd
     virtual node Restrict( node const & x, node const & c );
     virtual node Compose( node const & x, int i, node const & c );
     virtual node VecCompose( node const & x, std::vector<node> & cs );
-
+    virtual bool GetCEX(node const & x, std::vector<int> & cex);
     virtual void Support( node const & x, std::vector<int> & vVars );
     
     virtual void PrintStats( std::vector<node> & vNodes ) { (void)vNodes; }
@@ -202,7 +202,7 @@ namespace Bdd
   }
 
   template <typename node>
-  bool GenCEX(node const & x, std::vector<bool> & cex)
+  bool GetCEX(node const & x, std::vector<int> & cex)
   {
     if( x == Const0())
     {
@@ -212,6 +212,16 @@ namespace Bdd
     {
       return true;
     }
-
+    cex[Var(x)] = true;
+    if(Then(x))
+    {
+	return true;
+    }
+    cex[Var(x)] = false;
+    if(Else(x))
+    {
+	return true;
+    }
+    return false;
   }
 }
