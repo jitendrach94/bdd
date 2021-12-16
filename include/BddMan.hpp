@@ -202,7 +202,7 @@ namespace Bdd
   }
 
   template <typename node>
-  bool GetCEX(node const & x, std::vector<int> & cex)
+  bool BddMan<node>::GetCEX(node const & x, std::vector<int> & cex)
   {
     if( x == Const0())
     {
@@ -213,12 +213,12 @@ namespace Bdd
       return true;
     }
     cex[Var(x)] = true;
-    if(Then(x))
+    if(GetCEX(Then(x), cex))
     {
 	return true;
     }
     cex[Var(x)] = false;
-    if(Else(x))
+    if(GetCEX(Else(x), cex))
     {
 	return true;
     }
