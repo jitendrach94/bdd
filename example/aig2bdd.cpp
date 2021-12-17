@@ -54,7 +54,7 @@ int main( int argc, char ** argv ) {
   std::string aigname;
   std::string blifname;
   std::string dotname;
-  int package = 0;
+  int package = 3;
   bool supportname = 1;
   bool dvr = 0;
   int verbose = 0;
@@ -196,8 +196,8 @@ int main( int argc, char ** argv ) {
   switch(package) {
   case 0:
     {
-      Bdd::CuddMan bdd( aig.num_pis(), pverbose );
-      run( bdd, aig, klut, dvr, pi_names, po_names, dotname, cedge, verbose );
+      //Bdd::CuddMan bdd( aig.num_pis(), pverbose );
+     // run( bdd, aig, klut, dvr, pi_names, po_names, dotname, cedge, verbose );
     }
     break;
   case 1:
@@ -205,8 +205,8 @@ int main( int argc, char ** argv ) {
       if(cedge) {
 	std::cerr << "the package doesn't use complemented edges" << std::endl;
       }
-      Bdd::BuddyMan bdd( aig.num_pis(), pverbose );
-      run( bdd, aig, klut, dvr, pi_names, po_names, dotname, 0, verbose );
+      //Bdd::BuddyMan bdd( aig.num_pis(), pverbose );
+      //run( bdd, aig, klut, dvr, pi_names, po_names, dotname, 0, verbose );
     }
     break;
   case 2:
@@ -214,8 +214,8 @@ int main( int argc, char ** argv ) {
       if(pverbose) {
 	std::cerr << "the package doesn't have verbose system" << std::endl;
       }
-      Bdd::CacBddMan bdd( aig.num_pis() );
-      run( bdd, aig, klut, dvr, pi_names, po_names, dotname, cedge, verbose );
+      //Bdd::CacBddMan bdd( aig.num_pis() );
+     // run( bdd, aig, klut, dvr, pi_names, po_names, dotname, cedge, verbose );
     }
     break;
   case 3:
@@ -226,8 +226,8 @@ int main( int argc, char ** argv ) {
     break;
   case 4:
     {
-      Bdd::AtBddMan bdd( aig.num_pis(), pverbose );
-      run( bdd, aig, klut, dvr, pi_names, po_names, dotname, cedge, verbose );
+      //Bdd::AtBddMan bdd( aig.num_pis(), pverbose );
+      //run( bdd, aig, klut, dvr, pi_names, po_names, dotname, cedge, verbose );
     }
     break;
   default:

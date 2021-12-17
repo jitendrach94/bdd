@@ -127,5 +127,12 @@ namespace Bdd
       std::cout << "Shared BDD nodes = " << man->SharingSize( vNodes ) << std::endl;
       std::cout << "Sum of BDD nodes = " << count << std::endl;
     }
+    
+    uint64_t nodeCount(CUDD::BDD const & x) override
+    {
+    	uint64_t count = 0;
+    	
+    	return count;
+    }
   };
 }

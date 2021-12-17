@@ -3,6 +3,13 @@
 #include <optional>
 #include "BddMan.hpp"
 #include "mockturtle/mockturtle.hpp"
+#include "SimpleBdd.hpp"
+
+#include <SimpleBddMan.hpp>
+#include <CuddMan.hpp>
+#include <BuddyMan.hpp>
+#include <CacBddMan.hpp>
+#include <AtBddMan.hpp>
 
 namespace Bdd {
   template <typename node>
@@ -10,6 +17,7 @@ namespace Bdd {
   {
     mockturtle::topo_view aig{aig_};
     int * pFanouts = (int *)calloc( aig.size(), sizeof(int) );
+    
     if ( !pFanouts )
       {
 	throw "Allocation failed";
@@ -24,6 +32,9 @@ namespace Bdd {
 		    {
 		      m[aig.node_to_index( pi )] = bdd.IthVar( i );
 		    });
+	
+	uint64_t count = 0;
+    uint64_t maxNode = 0;
     aig.foreach_gate( [&]( auto gate, int i )
 		      {
 			if ( fVerbose )
@@ -39,6 +50,12 @@ namespace Bdd {
 						       y = bdd.Not( y );
 						     }
 						   x = bdd.And( x, y );
+						   count = bdd.nodeCount( x );
+						   if(maxNode < count)
+						   {
+						   		maxNode = count;
+						   		std::cout<<"Intermediate nodes: "<<count<<std::endl;
+						   }
 						 });
 			m[aig.node_to_index( gate )] = x;
 			aig.foreach_fanin( gate, [&]( auto fanin )
@@ -51,6 +68,7 @@ namespace Bdd {
 						     }
 						 });
 		      });
+	std::cout<<"Maximum intermediate BDD nodes: "<< maxNode <<std::endl;
     std::vector<node> vNodes;
     aig.foreach_po( [&]( auto po )
 		    {

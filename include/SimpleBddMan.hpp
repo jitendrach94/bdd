@@ -151,5 +151,12 @@ namespace Bdd
       std::cout << "Shared BDD nodes = " << man->CountNodesArrayShared( v ) << std::endl;
       std::cout << "Sum of BDD nodes = " << count << std::endl;
     }
+    
+    uint64_t nodeCount(SimpleBddNode const & x) override
+    {
+    	uint64_t count = 0;
+    	count = man->CountNodes( x.val );
+    	return count;
+    }
   };
 }

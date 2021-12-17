@@ -85,5 +85,13 @@ namespace Bdd
       std::cout << "UTable = " << man->GetUTableCount() << std::endl;
       man->ShowInfo();
     }
+    
+    uint64_t nodeCount(cacBDD::BDD const & x) override
+    {
+    	uint64_t count = 0;
+    	
+    	return count;
+    }
+    
   };
 }

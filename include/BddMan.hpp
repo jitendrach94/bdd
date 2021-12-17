@@ -47,6 +47,7 @@ namespace Bdd
     virtual void Support( node const & x, std::vector<int> & vVars );
     
     virtual void PrintStats( std::vector<node> & vNodes ) { (void)vNodes; }
+    virtual uint64_t nodeCount( node const & x) { (void)x; return 0;}
   };
   
   template <typename node>

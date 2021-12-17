@@ -167,5 +167,13 @@ namespace Bdd
       std::cout << "Shared BDD nodes = " << man->CountNodesArrayShared( v ) << std::endl;
       std::cout << "Sum of BDD nodes = " << count << std::endl;
     }
+    
+    uint64_t nodeCount(AtBddNode const & x) override
+    {
+    	uint64_t count = 0;
+    	
+    	return count;
+    }
+    
   };
 }

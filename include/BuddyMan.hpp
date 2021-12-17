@@ -130,5 +130,13 @@ namespace Bdd
       std::cout << "Shared BDD nodes = " << bdd_anodecount( vNodes.data(), vNodes.size() ) << std::endl;
       std::cout << "Sum of BDD nodes = " << count << std::endl;
     }
+    
+    uint64_t nodeCount(Buddy::bdd const & x) override
+    {
+    	uint64_t count = 0;
+    	
+    	return count;
+    }
+    
   };
 }
